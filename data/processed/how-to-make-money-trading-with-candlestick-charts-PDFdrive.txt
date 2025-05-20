@@ -1,0 +1,3989 @@
+About the Book
+How to Make Money Trading with
+Candlestick Charts
+Japanese rice traders have successfully used
+candle signals to amass huge fortunes for
+nearly four centuries. Constantly refined an
+tested over time, candlestick signals are now
+being used the world over for trading all
+financial markets, including stocks,
+derivatives and currencies, etc.
+This book explains step-by-step how you can
+make money by trading the powerful and
+proven candlestick techniques. Here is how:
+Explanation of major candle signals; howto recognize them and use them
+effectively
+The underlying market psychology
+revealed by each candle formation
+How to combine candlestick signals with
+Western technical analysis to take
+advantage of high probability traders
+which generate explosive profits
+Stop loss settings for various candlestick
+signals for cutting losses. Master this and
+you will be way ahead of fellow traders
+How the use of candlesticks with
+technical analysis provides a simple
+mechanical trading system which
+eliminates emotional interference, panic
+and greedHow to use candlestick charts for making
+money from longer term trading and
+investing
+PLUS: proven, market-tested trading
+ideas, tips and common mistakes to
+avoid based on the author’s rich
+experience of trading stocks and options.
+This book will enable both new and
+experienced traders derive systematic and
+consistent trading profits from the market
+through candlestick charting.About the Author
+BALKRISHNA M. SADEKAR is the founder of
+Profitable Candlestick Charting LLC., an
+educational company providing training to
+stock traders in the proper use of candlestick
+charting and technical analysis. He is also a
+member of Technical Securities Analyst
+Association (TSAASF.org), a leading
+authority for technical analysis in the United
+States.
+With a Masters degree in Engineering,
+Sadekar has passionately blended technology
+with investor psychology analysis via
+candlestick charts. Himself a trader for more
+than a decade, he has trained and continuestraining novice and experienced traders in
+correctly applying trading systems for
+profiting from equity markets.
+Sadekar resides in Richmond, VA in the US
+and can be reached via his website,
+www.ProfitableCandlestickCharting.com.
+With this book, which is one of the first
+candlestick charting books with Indian stock
+charts, Sadekar hopes to get Indian traders
+comfortable, confident and successful in the
+proper application of candlestick charting.Media Acclaim
+“Educative addition to the technical trader’s
+shelf.”
+— The Hindu Business Line
+“Clearly explains the message of each
+candlestick pattern. The manifold real life
+examples amplify the lessons being taught.
+Highly recommended . . . discover ways of
+profiting from candlestick trading.” — Alan
+Northcott
+What the Readers’ Say (Some Unsolicited Readers’ Comments on
+Amazon.in)
+“One of the best books on this topic.” —
+Praveen Kumar
+“Excellent book . . . worth reading.” —
+Prasad Revdekar
+“It is a very good book for those who want
+(to) learn trading.”
+— Ashish
+“Superb book with simple and lucid
+language! Worth reading.”— Falak Sayyed
+“It’s good . . . must purchase for every
+trader.” — Senthil Kumar
+“I want people to know that this (author) is
+(an) amazing explainer — combined with
+simple, understandable language.”
+— Muhammed Mominwww.visionbooksindia.com
+A Vision Books Original
+First eBook Edition, 2016
+First Print Edition, 2011
+Reprinted 2012, 2015
+eISBN
+eISBN 10: 81-7094-962-9
+eISBN 13: 978-81-7094-962-6
+© Balkrishna M. Sadekar, 2011, 2015
+First Published in 2011
+by
+Vision Books Pvt. Ltd.
+(Incorporating Orient Paperbacks & CARING imprints)
+24 Feroze Gandhi Road, Lajpat Nagar 3
+New Delhi 110024, IndiaPhone: (+91-11) 2984 0821 / 22
+email: visionbooks@gmail.comContents
+Acknowledgements
+1.Introduction
+2.Candlestick Trading: The Basics
+Fear and Greed
+Candlesticks Light the Way
+Why Bother with Bar Charts?
+Stochastics
+PART I3.The Doji
+Doji
+4.Hammer and Hanging Man Signals
+Hammer
+Hanging Man
+5.Inverted Hammer and Shooting Star
+Signals
+Inverted Hammer
+Shooting Star
+6.Engulfing Signals
+Bullish Engulfing
+Bearish Engulfing7.Dark Cloud and Piercing Signals
+Piercing Signal
+Dark Cloud Cover
+8.The Harami
+Bullish Harami
+Bearish Harami
+9.Morning Star and Evening Star
+Signals
+Morning Star Signal
+Evening Star Signal
+PART II
+10.Combining Candlesticks withTechnical Analysis
+Support and Resistance
+Moving Averages
+11.Trading Setup
+Getting Real — Candlesticks Fail,
+Too!
+Hammer
+Inverted Hammer
+Bullish Engulfing Signal
+Piercing Signal
+Bullish Harami
+Morning Star SignalHanging Man Signal
+Shooting Star Signal
+Bearish Engulfing Signal
+Dark Cloud Cover
+Bearish Harami Signal
+Evening Star Signal
+Trading Tips from a Candlestick
+Trader’s Perspective
+12.Candlesticks for Longer Term Trading
+Trading for the “Not-So-Active”
+Trader
+Work with Weekly Charts13.Conclusion
+Appendix: Important Candle Signals - A
+Ready Reckoner
+IndexAcknowledgements
+This book would not have been possible
+without the help and backing of many friends,
+colleagues and family members.
+First and foremost, I would like to thank my
+loving parents for their support throughout
+my life. They are primarily responsible for
+cultivating patience and perseverance in me,
+without which a trader has no chance of
+success. I am also grateful for the wonderful
+support and love from my sister and her
+family. Special thanks go to my in-laws,
+especially my father-in-law, who was
+instrumental in providing me a lot of data onthe Indian markets. He has been actively
+involved in stock trading and his experience
+has been a blessing for me.
+I am delighted to take this opportunity to
+thank my mentor and a superb fellow trader,
+Hugh Terry. Hugh introduced me to
+candlesticks and his lessons have been
+invaluable to me. There are very few people
+in this world who selflessly share their
+knowledge and experience with others. Hugh
+is one of them.
+I would also like to thank folks at Icharts
+(www.ichart.com) for allowing me use of
+their stock charts. The team of Icharts has
+done an excellent job in making available
+technical charting to the Indian marketplayers. I am also thankful for all the good
+suggestions from members and students of
+Profitable Candlestick Charting.
+I am highly appreciative of Vision Books and
+its Publisher, Kapil Malhotra, for believing
+in my efforts and publishing this book.
+Lastly, this book would only have been an
+idea in my mind if not for two special people
+in my life — my princess daughter and my
+loving wife. They have been my support and
+my inspiration throughout.1
+Introduction
+The Japanese art of candlestick trading has
+been around for nearly four centuries.
+Japanese rice traders successfully used these
+signal formations to amass huge fortunes.
+Since then, the signals have been refined,
+tested and utilized in a variety of markets.
+Wherever an instrument can be traded in an
+open market by traders, candlestick signals
+can be used to profit in such markets.
+Candlestick signals depict change in investor
+psychology. They visually show a trader thesentiments of the other traders in that
+particular stock or market. It does not matter
+if the signals are applied to commodities,
+stocks or futures. Candlestick signals work
+with all of them. It does not matter whether
+the market is the Nasdaq, the Nikkei, the
+German DAX or the Nifty. All of these
+markets can be analyzed and traded using
+candlestick charting.
+Why do people around the world pour their
+hard earned money into the financial
+markets? Why do they not keep their money
+invested in fixed price no risk certificates?
+The answer is obvious. They take the risk of
+investing in stock, currency and futures
+markets in order to get higher returns on their
+money. The allure of hitting it big in the stockmarket keeps their dream of financial
+independence alive. They look for a good
+nest egg to be built from the gains in the
+market for a comfortable retirement.
+Yet the percentage of investors that actively
+manages its portfolios is paltry compared to
+those who keep pouring money in the market
+hoping they would strike gold someday.
+(Henceforth we will use the terms “market”
+and “stock market” to include the stock,
+commodity and the currency markets.)
+Ask yourself which category you fit in from
+among the following:
+You listen to analysts on TV to get
+recommendations for buying stocks.You subscribe to a stock picking service
+for your stock investments.
+You try out the latest stock picking
+software, lose money and start all over
+again.
+You get your stock investment ideas from
+your friends, your colleagues or the local
+tea vendor.
+You have tried all of the above, lost
+money and given up on the stock market
+altogether.
+If you have done any of the above, you are
+not alone. Most investors are the same
+everywhere. They keep searching for the one
+golden technique that will work each andevery time they put their money in the
+markets. They do not spend enough time to
+independently study the market itself. They
+tend to believe that analysts on TV, who do
+all the research and generously offer their
+recommendations are motivated by the idea
+of making you rich! That is being very naïve,
+indeed.
+Most traditional investors believe in a “buy
+and hold” strategy. They believe in
+“averaging down” a stock. Their thinking is
+limited to “It will go up one day”. They will
+argue against timing the market. These are
+the people who spend more time thinking
+about what clothes to wear to office on any
+day, than they do about their investments and
+their financial future.Part of this stems from the fact that real-time
+access to market data was very limited till
+just a few years ago. People used to be able
+to look at their investments only at the end of
+the day. Trading costs, i.e. buying and selling
+commissions, were also very high. But those
+factors are no longer valid. Information
+technology has changed the trading scenario.
+More and more people are now opening
+online trading accounts. They now have
+access to real-time instantaneous data.
+Technology has also helped to drive down
+trading costs considerably.
+As the BSE and NSE equity indices rally
+because of underlying strong growth
+fundamentals of India, individual investors
+would naturally want to increasinglyparticipate in the markets. It is extremely
+important that these investors and traders
+educate themselves in learning the language
+of the markets. The markets speak in subtle
+ways. They are always giving clues to their
+directional movements. Candlestick trading
+is all about reading this subtle language of
+the markets.
+There are more than fifty candlestick signals
+defined by Japanese traders. However, of
+these we will focus on the most common
+ones. You will find that these major
+candlestick signals occur often and
+repeatedly. Your time as a trader or investor
+will be well spent if you understand these
+major signal formations.There have been a handful of books written
+on candlestick charting so far. Most of these
+books have been written from the
+perspective of trading the US markets. This
+book is specifically written with the Indian
+trader in mind. All the included charts are of
+companies trading on either the National
+Stock Exchange or the Bombay Stock
+Exchange.
+By the end of this book you will be able to
+look at any chart and analyze it yourself. You
+will be able to turn off the analysts on TV
+and unsubscribe your stock picking service.
+You will discover within you the ability to
+diagnose the health of the market. That
+ability will bring with it the confidence to
+enter high probability big profit situationswhich will, in turn, help your portfolio grow
+rapidly. However, let me warn you. This is
+not a “get-rich-quick-scheme” book. It will
+not turn you into an overnight crorepati. The
+intention of this book is to teach you how to
+use these powerful candlestick techniques
+correctly and effectively. Wealth generation
+will automatically follow!
+The next chapter will go into detail about the
+construction of candlesticks and more
+importantly the psychology underlying those
+candlesticks.2
+Candlestick Trading: The
+Basics
+This chapter is not going to be an essay on
+the science of psychology — though it would
+be very interesting to know what reputed
+psychologists like Carl Jung and Freud
+would think about the art of trading! This
+chapter will hopefully link in your mind the
+importance of psychological underpinnings
+of trading stocks.
+If someone were to ask me what percentageof trading is comprised of psychological
+warfare, I would put the number between
+85% and 95%. The stock market is
+essentially a game of fear and greed. Supply
+and demand are by-products of these two
+emotions battling it out for dominance in the
+market.Fear and Greed
+Fear creates panic. And panic creates supply
+in the marketplace.
+Greed produces exuberance, giving rise to
+demand.
+As humans, we cannot escape these two
+emotions while trying to make money in the
+marketplace.
+When you watch a stock you own go down,
+you get overwhelmed by fear and anxiety.
+Such emotions create havoc in the mind:
+How low will the stock go and how
+much will I lose?What if my spouse / parents / friends find
+out about this pathetic losing trade I
+made?
+Should I get out now?
+What if the stock turns around as soon as
+I sell it? How much of a fool would I be
+then? And on and on and on.Notice the Fear
+On similar lines, what do you think when the
+stock you don’t own, but wanted to own,
+keeps going up?
+I always knew this would be 10-bagger.
+Should I buy it now? If I don’t, and it
+goes up even more, what a fool I’ll then
+be.
+This is the stock to own, let me get in
+now.
+Everybody I know owns this one, I have
+to buy it and ride it up. And, on and on.Notice the Greed
+We are all slaves to these two emotions.
+They are also the trader’s worst enemy. If
+you are expecting that I am going to show
+you how to master these two, often
+overpowering, human emotions, you are
+going to be sorely disappointed. For that,
+please browse through the self-help section
+of your favourite bookstore.
+The fact is that experienced and successful
+traders know that they cannot master these
+two emotions. They know that all profits will
+evaporate into thin air if they fall in the trap
+of trying to master them. What they do,
+however, is design a system and abide by the
+system’s rules to execute their trades. Theyrealize that the market is much bigger than
+them and their egos. In order to win in the
+market, they have mastered the art of
+understanding the subtle hints of the market.
+This is where candlestick signals assert their
+dominance.
+Candlestick signals, by the very nature of
+how they are constructed, point out the
+messages of the market. These signals have
+been time tested for over four hundred years.
+They would not have been around for this
+long if they wouldn’t have had strong
+underlying market logic.
+These signals depict the outcome of all the
+cumulative knowledge of the traders and
+investors playing that stock. Stock priceshave little to do with the actual fundamentals
+of a company. Instead, they have a lot more
+to do with the company’s “perceived”
+fundamentals. It does not matter what a
+company has achieved till date. If the
+perceived growth of the company is doubtful,
+then the stock has little or no chance of
+appreciation. What would you rather be
+buying? A good, well known company but
+with little perceived growth or a company
+which traders and investors believe will
+grow for the next few years. I would buy the
+latter. This is what makes the stock market so
+dynamic. The fear of losing money and the
+greed for making more money creates the
+demand-supply imbalances that move stock
+prices.If you take away one lesson from this book,
+let it be this — as a trader, you should
+always be buying into other’s fears and
+selling into other’s greed.
+And this is not as complex as it sounds. Once
+you are done with this book, it will be very
+easy to recognize the emotions of the traders
+in that stock. Candlesticks make the analysis
+visually apparent.
+This book is for those who want to make
+money in the stock market. And the easiest
+way to do that is to live by the above
+principle. You can either be a shark in the
+ocean or be eaten by one!Candlesticks Light the Way
+Let us now look at how candlesticks are
+drawn.
+You need four price points to draw a single
+candlestick. Considering an example of a
+daily candlestick, you need:
+High price of the day;
+Low price of the day;
+Opening price of the day;
+Closing price of the day.
+The two parts of the candlestick are:
+The body: This is the part between theopen and the close. In case the day’s
+opening price is lower than the closing
+price, the colour of the body is white
+(some charting services will make this
+green). Conversely, when the day’s
+opening price is higher than the closing
+price, the colour of the body is black
+(sometimes shown as red).
+The shadows: The upper shadow is the
+line above the body and the lower
+shadow is the line below the body. In the
+case of a black bodied candle, the upper
+shadow is from the day’s open price to
+its high price and the lower shadow is
+from the closing price to the low price of
+that day. Conversely, in the case of a
+white bodied candle, the upper shadowis between the closing price and the high
+price of the day, and the lower shadow is
+between the opening price and the low
+price of the day.
+Note: Throughout this book, the words
+“white” candle and “light” candle have been
+used interchangeably. Also, the words “black”
+candle and “dark” candle have been used
+interchangeably.
+Figure 2.1 shows the construction of a
+candlestick when the closing price of the day
+is higher than the opening price of the day.Figure 2.1: White (green) candlestick
+depicts that the day’s closing price was
+higher than the opening price of the day
+Figure 2.2 shows a candlestick where the
+closing price of the day is lower than the
+opening price of the day.Figure 2.2: Black (red) candlestick depicts
+that the day’s closing price was lower than
+the opening price of the day
+It is not necessary for a candle to have both
+the upper and lower shadows. The following
+figures depict a few variations of the candle
+formation. The reader does not need to
+remember the names but should understand
+the formation instead.White Morubozu
+This is a white candle with no shadows at
+either end (see Figure 2.3).
+Figure 2.3: White Morubozu
+It depicts a day when the low of the day is
+the same as the open and the high of the day
+is the same as the close price of the day. This
+usually represents a very bullish formation
+as it shows the bulls had the upper handthroughout the day.Black Morubozu
+This is a black candle with no shadows at
+either end (see Figure 2.4).
+Figure 2.4: Black Morubozu
+This occurs when the high of the day is the
+same as the open price of the day and the
+close of the day is the same as the low priceof the day. What does this candle represent?
+It shows domination by the bears throughout
+the day. Generally, this would be considered
+a very bearish candle.Opening Morubozu
+Figure 2.5 shows two cases of an Opening
+Morubozu.
+Figure 2.5: Opening Morubozu
+As you can see, they do not have a shadow
+attached to their opening price end of the
+body. The white candle denotes that bullstook control right from the start while the
+black candle suggests that the bears
+dominated right from the open.Closing Morubozu
+As can be seen from Figure 2.6, the Closing
+Morubozu does not have a tail attached to the
+closing price end of the body.
+Figure 2.6: Closing Morubozu
+The white candle implies that the bulls tookover control during the day and ended the
+day strong. On the other hand, the black
+candle suggests that the bears took over
+during the day and forced the price to close
+at the lowest level of the day.Doji
+The Doji is one of the most important
+candlestick formations. Chapter 3 will
+discuss this signal in detail. For now, we
+will define the Doji as a candle where the
+opening and closing prices are the same.
+Figure 2.7 shows a Doji candle.
+Figure 2.7: DojiPlease note that given how candlesticks
+are constructed, it is very much possible to
+have a dark candle even when the price
+closes higher compared to the previous
+day. Similarly, you can have a white candle
+form even if prices close down for the day.
+Each candle is independent of the previous
+day’s candle. This is a very important
+point and you need to make sure you
+understand this concept clearly.
+The following examples will help clarify the
+point:
+Let us assume for company XYZ, the
+share price closes at ` 50 today. If the
+price opens at ` 55 tomorrow, but closes
+at ` 53, what colour candle will you seeon the chart? You will see a dark candle.
+This is because while the price closed
+higher (` 53) than it did the day before (`
+50) but it closed below the day’s open (`
+55), creating the dark candle.
+Consider the company XYZ again with a
+closing price of ` 50 for today. If the
+price opens at ` 45 tomorrow and closes
+at ` 48, you will see a white candle on
+the candlestick chart. This is because the
+day’s price closed higher (` 48) than its
+opening price (` 45). The fact that it
+closed below ` 50 (closing price of the
+previous day) does not matter in the
+construction of the candle.
+This is the key powerful concept behindcandlestick charting. The construction
+conveys a wealth of information to the
+candlestick trader, which a regular line chart
+reader would have no access to.
+To illustrate this point and show the inherent
+power of candlesticks, we will compare
+Figure 2.8 with Figure 2.9. Both are charts of
+Bharat Heavy Electricals Ltd. for the same
+time period.
+Figure 2.8: Candlestick chart of Bharat
+Heavy Electricals Ltd.
+Figure 2.9: Line chart of Bharat Heavy
+Electricals Ltd.
+Can you visually see the vast difference in
+the two charts? Here are some things which
+can be easily observed:
+Point A in the two charts shows a key
+reversal for the share. What would havealerted a line chart trader to this reversal
+(Figure 2.9)? Nothing. In the case of a
+candlestick trader, a candlestick buy
+formation would have been seen on Chart
+2.8 and the trader could have acted on it.
+Point B does not even exist in the line
+chart (Figure 2.9). That is because a line
+chart uses only closing prices. The
+candlestick chart trader would have been
+way ahead of the competition in this
+case. It is easily seen from the chart
+(Figure 2.8) that prices failed precisely
+at the resistance level established in
+early December. The supply at price
+point B well exceeds the demand. The
+candlestick trader could have used this
+knowledge to go short.Point C in the line chart shows
+oscillatory behaviour at an earlier
+resistance level (Figure 2.9). However,
+the strength of the stock cannot be
+gleaned from the chart. Is it going to
+break the resistance and go higher or
+succumb to selling pressure? What do the
+probabilities say? The answer is
+uncertain at best. However, in the
+candlestick chart (Figure 2.8), one can
+easily observe the Doji and Spinning
+Tops (explained later) confirming
+resistance. The probabilities favoured
+the bears.
+To give an analogy, say a patient with a
+broken bone walks into a doctor’s clinic.
+The doctor can feel the affected area and tryto gauge the damage. But he cannot know
+what is going on internally. He needs an x-
+ray machine to visually show him the exact
+location and extent of the damage.
+Candlesticks perform the function of the
+x-ray machine. They visually show you the
+internal dynamics of the market. A simple
+analysis of the candlestick chart would then
+catapult you way ahead of your competition.Why Bother with Bar Charts?
+We could also compare bar charts with
+candle charts and come to almost the same
+conclusion. The candlestick chart
+incorporates everything that a bar chart does.
+In addition, it is visually more revealing. The
+black (red) and white (green) colour bodies
+make analyzing a candlestick chart much
+easier and more intuitive. Once you start
+looking at candlestick charts, other charting
+techniques seem dull and arcane. By the end
+of this book, you should be able to analyze
+any candlestick chart within a minute. That is
+my goal.Stochastics
+This book is written to help the reader
+maximize his or her investment or trading
+potential. One key ingredient of this strategy
+is to minimize downside risk. For this
+purpose, we will look for highly profitable
+buy trades in oversold conditions and
+highly profitable sell trades in overbought
+conditions. To find out when the shares are
+overbought or oversold, we need an
+oscillator. I have always used the stochastics
+oscillator for this purpose. It is a matter of
+personal preference and the reader can
+choose any other indicator he or she is
+familiar with.
+Note: For those readers who are unfamiliarwith technical indicators and oscillators, I
+would recommend reading some of the
+technical analysis books mentioned in the
+Bibliography section of this book.
+Note: The candlestick trader need not go into
+details of the stochastics indicator. It is
+described here for educational reading only.
+The stochastic oscillator comprises of two
+lines: %K, or the raw stochastics, and %D,
+which is a moving average of the smoothed
+version of %K.
+The following formula is used to calculate
+%K:
+%K = (C – L) / (H – L) * 100Where,
+C = Closing price.
+L = Lowest price in last N days.
+H = Highest price in last N days.
+%K gives you a percentage between 0 and
+100. From this formula, it can be seen that if
+the stock is closing at the highest level in N
+days, %K will be 100. This %K is generally
+very volatile and hence is often smoothed out
+over a certain number of days. This gives a
+much smoother line than %K itself. %D is
+the moving average over a certain number of
+days of this smooth version of %K.
+In short, stochastics give you the relative
+position of the price as compared to therange of the past N trading days. If the
+price closes towards the high end of the
+period, then the stochastics will be closer to
+100. If the price closes towards the lower
+end of the range in that time period, then the
+stochastics will be a number closer to 0. In
+general, any reading above 80 for the
+stochastics indicates an overbought
+condition. Any reading below 20 suggests
+that the shares are currently oversold.
+The stochastics indicator can be plotted by
+most of the charting software found online.
+A question often arises as to what settings
+should be used to display the stochastics. In
+other words, what is the value of “N”
+mentioned above? I usually use a value of12. Some traders use 14. The smaller the
+time period you choose, the more volatile the
+indicator will be. So, if you want to get rapid
+buy and sell signals, you would choose, say,
+5. For swing trading, where you hold a
+position for a few days to a few weeks, you
+could choose 12 or 14. The correct
+procedure to get this number is by trial and
+error. Your goal is to see where the price
+reversed in the past and the corresponding
+stochastic setting. Those need to match up.
+The reversal from a high needs to match with
+stochastics in overbought conditions while
+the reversal from the bottom needs to match
+with oversold conditions of stochastics.
+The other parameter you put in is the number
+of days to smooth out the %K. Generally, 3days works very well. But you are free to
+experiment with other numbers.
+It is vital to emphasize at this point that
+the use of any indicator is secondary in
+nature. The candlestick signals are the
+primary source for decision making.
+The key is to find candlestick buy signals in
+oversold conditions and candlestick sell
+signals in overbought conditions. As you
+read the following chapters, you will notice
+that most of the charts will focus on the
+overbought-oversold conditions. For the
+beginner candlestick trader, these situations
+will be plentiful to take advantage of. They
+will enhance your confidence level while
+simultaneously increasing your portfolioreturns.
+PART I
+The first part of this book will focus on the
+explanation of the major candlestick signals.
+The nuances associated with individual
+signal formations are explained along with
+plenty of charts. Sometimes, you will see the
+important points being repeated in many
+places. Believe me, it will add to your
+mental reinforcement of the psychology of
+the signals. The goal here is to get your eyes
+trained to the signal patterns to the point
+where you instantly recognize and analyze
+the underlying demand-supply equation in
+that stock.
+The following major signals will be coveredin depth:
+The Doji.
+The Hanging Man and the Hammer.
+The Inverted Hammer and the Shooting
+Star.
+The Bullish Engulfing and Bearish
+Engulfing signal.
+The Dark Cloud and the Piercing signal.
+The Harami.
+The Morning Star and Evening Star
+signals.
+Please read and re-read these chapters
+before going on to Part II of this book. Athorough understanding of the signal
+formations is of the utmost importance if you
+want to successfully trade with them.3
+The Doji
+The Doji is one of the most important
+candlestick signals. The Japanese say that
+whenever you see a Doji, pay heed.Doji
+Description
+Figure 3.1 shows a Doji formation. Notice
+that the open and the close of the stock are at
+about the same price.
+Figure 3.1: Doji signalCriteria
+For the Doji to be valid, the following
+conditions need to be met:
+The open and the close of the stock must
+be almost at the same price level.
+There can be an upper shadow or a
+lower shadow, or both.
+Figure 3.2 shows a few Doji variations:Figure 3.2: Doji variations
+When the Doji does not have a lower
+shadow, it is termed a Gravestone
+Doji. The Japanese compare it to the
+soldiers going out to battle during the day
+and coming back to their original
+positions for rest during the night. This
+type of Doji formation is very
+effective at the top of a trend. Thelogic being that though the bulls tried to
+rally the stock they failed at the end of
+the day.
+A Doji without any upper shadow is
+known as a Dragonfly Doji, just
+because it looks like one. This kind of
+Doji would have powerful implications
+near the bottom of the trend. It implies
+that while the bears tried to take the price
+down during the day, by the end the bulls
+were able to bring the price back to
+where it had opened.
+When the Doji has a small body, it is
+also known as a Spinning Top.
+Note: These names are mentioned here onlyfor information purposes. As a candlestick
+trader, these names are irrelevant. The
+analysis of the formation is critical. That
+analysis will decide your survival in the
+marketplace!
+A Doji can be found anywhere in the trend.
+The significance of the Doji varies according
+to its position in the trend. A simple analysis
+of Figure 3.1 indicates that the bulls tried to
+drive the prices higher and failed. The bears
+tried to run prices lower and failed. So there
+is now equilibrium in demand and supply.
+Both sides of the equation balance out each
+other. The candlestick trader can use this
+battle impasse very profitably.
+We will now analyze the Doji in variousscenarios.
+Doji After a Stock is in an Overbought
+Condition
+The Japanese say that whenever you see a
+Doji at the top, be prepared to sell. Consider
+a stock moving up in a trend. The bulls are
+happy with the white candles increasing their
+net worth. Then, one day, the candle forms a
+Doji. The bulls were running unchecked till
+now. Now the bears are starting to fight
+back. They are fighting back to the point
+where the bulls are not able to move the
+price much higher from the open. This gives
+rise to the Doji formation. The bulls are now
+tired. The bears sense this. If the price opens
+lower the next day, there is high probabilitythat the bulls have given in and the trend has
+reversed for a while.
+Doji After a Stock is in an Oversold
+Condition
+Now consider a stock that has been moving
+down for a while. The bears are happy. The
+black candles visually demonstrate their hold
+on the stock. Then, one day, the bulls step in.
+They fight the bears and finally the dayends
+as a Doji. What does this do to the bears’
+sentiment? They get nervous. They know they
+are tired. If the next day the price stays
+firmly positive, the bears move away. The
+trend reverses as the bulls get more
+confident.
+Doji in a Sideways MarketConsider a stock moving sideways for a
+period of time. The bulls and bears are
+fighting it out. Then one day you notice a nice
+big Doji. This is where things get interesting.
+You now know that an equilibrium has been
+achieved. What you want to see now is a gap
+up or gap down scenario the next day. This
+indicates high probability that a trend will
+start in the direction of the gap. The reason
+being, after the Doji (say in your mind
+indecision), the traders have made up their
+mind as to the stronger force between the
+bulls and the bears. As a candlestick trader,
+you can now enter this market to ride the new
+trend.
+The following conditions enhance the
+probability of reversal:Stochastics in oversold or overbought
+conditions.
+Heavy volume on the Doji day.
+Long upper and lower shadows implying
+great indecision at the point.
+A gap up or gap down open the next day.
+Figure 3.3 shows a Doji stopping the
+downtrend in Pfizer stock. You will notice
+that Pfizer was already in an oversold
+condition as indicated by the stochastics
+position. What happened the day after the
+Doji? A gap up bullish candle!Figure 3.3: Doji at key reversal levels in
+Pfizer
+The Doji told the candlestick trader to keep a
+close watch. It indicated that the sellers, who
+were so dominant till this point, were being
+challenged by the bulls. There is indecision
+in the market. There is, therefore, a goodprobability that the trend reversal is near.
+However, there is need for confirmation
+buying. The Japanese say that a Doji at
+the top warrants immediate selling, but a
+Doji at the bottom of a trend needs
+confirmation of strength from the bulls.
+This is because the weight of the market can
+still drag the stock down if the bulls are not
+forceful enough. Hence, one needs to wait to
+see strength in the markets after a Doji type
+day.
+What better way to see strength then a gap up
+bullish day as seen in Pfizer! The candlestick
+trader should immediately act on this signal.
+What signal do you see at the top of the
+trend? A Doji!Examine the chart of Syndicate Bank in
+Figure 3.4.
+Figure 3.4: Doji formations in the chart of
+Syndicate Bank
+The early part of May (Point A) shows a
+Doji type day stopping the downtrend. The
+next day provided the confirmation thecandlestick trader would have needed to go
+long. The rally lasted till mid-May, where a
+Doji (Point B) ended the bullish run. Upon
+going short after confirmation (yes, I wait for
+confirmation even after a Doji at the top), the
+trader would have again made a good profit.
+The third arrow on the chart (Point C) shows
+a spinning top and a Doji stopped the
+pullback.
+Figure 3.5 shows a chart of Hindalco. Notice
+the arrows showing quite a few Doji. This is
+why I like to see confirmation even for the
+Doji at the top.Figure 3.5: Unconfirmed and confirmed
+Doji in Hindalco
+The first two Doji did not have any
+confirmation selling following them. What
+can be inferred from that? It shows that after
+the up trend, the bulls merely rested. The day
+of indecision was followed by more buying,
+implying strength in the up trend. However,after the third Doji the bears assumed control
+of the stock as seen by the big dark candle.
+There was no doubt after seeing this candle
+that the bulls had lost the battle.
+Such analysis is what will distinguish you
+from traders who are not aware of the
+nuances of candlestick trading. It is not just a
+matter of visually recognizing a signal. You
+have to learn to analyze the signal in the
+proper perspective. This book will help you
+do that.
+Let us conclude the discussion with Figure
+3.6. The chart shows Hinduja stock rallying
+after a Doji stopped its downtrend.Figure 3.6: A spinning top candle in
+Hinduja
+The candlestick trader would have entered
+the position after the Doji was confirmed by
+the next day’s buying. The ride from ` 305 to
+about the ` 360 area would have generated
+handsome profits. Where would the trader
+have sold? Note the spinning top at the top ofthe trend. The trader would have sold after
+the spinning top was confirmed by the dark
+candle the day after.
+4
+Hammer and Hanging Man
+Signals
+The Hammer and the Hanging Man are one-
+day reversal signals. Traders should gear up
+to enter positions as soon as these signals get
+confirmed the following day.
+Hammer
+Description
+Figure 4.1 shows a Hammer formation. As
+can be seen, an ideal Hammer has a small
+body and a tail which is at least twice the
+size of the candle’s body.
+Figure 4.1: Hammer signalCriteria
+In order for the Hammer signal to be valid,
+the following conditions must exist:
+The price must have been in a definite
+downtrend before this signal occurs. This
+can be visually seen on the chart.
+The lower shadow must be at least twice
+the size of the body.
+The day after the Hammer is formed, one
+should witness continued buying.
+There should be no upper shadow or a
+very small upper shadow. The colour of
+the body does not matter, but a white
+body would be more positive than ablack body.
+Why the Reversal Works
+Consider a stock moving down for a period
+of time. Investors start panicking at some
+point. They want to get out and accept the
+loss. Finally, as the sellers pile on the stock
+starts selling off heavily during the day. But
+then smart money moves in. They are able to
+move the price all the way near where the
+stock had opened for that day. This gives the
+stock a hammer look. The Japanese call it
+hammering out a bottom. However, the
+stock needs to trade higher the next day to
+confirm that the bulls have actually reversed
+the trend. The candlestick trader should enter
+the market after seeing this confirmation.The following conditions can make the
+Hammer signal a more compelling buy:
+There is a gap down from the previous
+day’s close on the day of the Hammer.
+There is a spike in volume on the
+Hammer day.
+Stochastics are in oversold condition.
+The longer the lower shadow, the better.
+Figure 4.2 shows the chart of Bharat Forge
+Co. Ltd. Notice the long-legged Hammer in
+June 2006. The volume surged on the day of
+the Hammer, indicating people were panic
+selling the shares. The question is — who
+was buying when these “novice” traders
+were selling?Figure 4.2: A Hammer in oversold
+condition in Bharat Forge
+Also note the fact that the stochastics were
+near the oversold area. Another point to see
+in the chart is the day before the Hammer
+signal. That candle also had a long tail,
+indicating buyers stepping in to absorb someof the selling. But it did not form the Hammer
+signal because the lower shadow was not
+twice the length of the body.
+Consider Figure 4.3 showing the Hammer
+formation in Punjab National Bank chart. If
+you watch closely, the Hammer has a small
+upper shadow. That is acceptable. Compared
+to the size of the lower shadow, the upper
+shadow is negligible. The stochastics are in
+the right place adding credence to the signal.
+Buying around the ` 430 area after
+confirmation and selling around the ` 470
+area (after the Bearish Engulfing signal)
+would have given the candlestick trader
+good profits.Figure 4.3: Punjab National Bank rallying
+after a Hammer
+Figure 4.4 shows a Hammer signal in Biocon
+Limited. Notice the stochastics were not in
+the oversold region, but were moving up.
+This was due to the price steadying around
+the ` 330 area. What can be deduced fromthis chart is that the investors lost patience
+with the stock. After weeks of downtrend,
+and then no movement at all, the investors
+finally gave up. That was the time smart
+money moved in and generated the classic
+Hammer signal. Strong profits would have
+been generated for a trader buying on
+confirmation of this signal.Figure 4.4: A Hammer and volume
+explosion in Biocon
+What do the candlesticks in Figure 4.5 show
+you? Can you see any sign before the actual
+Hammer signal that should have alerted you
+that the downtrend might be approaching its
+end? The big black candle the day before theHammer in oversold condition shows you
+visually the panic selling as a result of the
+fear experienced by novice traders.
+Remember, from now on, you are trading
+fear and greed, not stocks. That is what the
+market is all about — and successful traders
+take advantage of that everyday.
+Figure 4.5: A Hammer in oversold
+condition in Hindustan Lever
+We will conclude the Hammer discussion
+with the chart of ABB in Figure 4.6. By now,
+hopefully, I have drilled into your psyche the
+conditions you need to be looking for when
+trading the Hammer signal. So, go ahead and
+analyze this chart for yourself. Candlestick
+signals are very simple if you know exactly
+what you are looking for.Figure 4.6: A Hammer confirming
+previous support in ABBHanging Man
+Description
+Figure 4.7 shows a visual depiction of the
+Hanging Man signal. No, I have not copied
+the image from Figure 4.1 showing the
+Hammer. Please notice the difference in the
+two images. The formation of the signal is
+exactly the same, but the position of the
+signal in the trend has changed. The
+Hammer comes after a downtrend and the
+Hanging Man comes after an up trend.Figure 4.7: Hanging Man signalCriteria
+The conditions for the Hanging Man signal to
+be valid are:
+The stock must have been in a definite up
+trend before this signal occurs. This can
+be visually verified on the chart.
+The lower shadow must be at least twice
+the size of the body.
+The day after the Hanging Man signal
+should witness continued selling and a
+lower close.
+There should be no upper shadow or a
+very small upper shadow.Why the Reversal Works
+Consider a stock in an up trend. Investors
+and traders are happy that their portfolios are
+showing green. Then, one day, big money
+decides to take profits. They start selling the
+stock. Novice traders, who have seen the
+stock rise for the past numerous sessions, see
+this dip as a buying opportunity. They start
+absorbing the supply and are finally able to
+take the price up towards the top of the day’s
+trading range. However, the bulls are now
+getting nervous. Their confidence in the stock
+is dropping. Their greed is turning into fear
+— fear of losing their hard earned profits. If
+the stock closes lower the next day
+confirming their fears, the downtrend will
+accelerate from that point on. The bears willtake control.
+The following conditions make the reversal
+of the up trend more convincing:
+There is a spike in volume on the day of
+the signal.
+There is a gap up from the previous close
+on the day of the signal showing
+exuberant buying at the top.
+Stochastics are in overbought condition.
+The longer the lower shadow, the better.
+The colour of the Hanging Man body
+does not matter, but a black body would
+be a stronger confirmation.
+Figure 4.8 shows the chart of SatyamComputer Services Ltd. This is an ideal
+Hanging Man signal. All the stars have
+aligned for the trader to take on the short side
+of the trade. Those who are averse to
+shorting stocks can at least sell their existing
+position and lock-in profits.
+Figure 4.8: A Hanging Man in overboughtcondition in Satyam Computer
+Firstly, you can see the climactic buying as
+shown by the above average volume on the
+day before the signal. Secondly, stochastics
+are in the overbought area. The day after the
+Hanging Man signal, the stock gapped down,
+validating the fact that bears had taken
+control.
+Notice in the chart of Punjab Tractors Ltd. in
+Figure 4.9, that the stock gapped up on the
+day it formed the Hanging Man signal.Figure 4.9: Hanging Man stops the up
+trend in Punjab Tractors
+Though it was a relatively small candle, it
+satisfied all the requirements of the
+formation. Also notice that this signal was
+formed at the same area where the stock met
+resistance a few days back. This type ofconfirmation should give a trader a high
+degree of confidence that the trend is
+reversing.
+What can we see in Figure 4.10? Can you
+glean any information as a trader from the
+candle the day before the Hanging Man
+signal formed?Figure 4.10: Hanging Man confirms
+spinning top in Jaiprakash Associates
+That particular day visually depicts the battle
+between bulls and bears. The bears finally
+took control with the Hanging Man
+formation, which was confirmed the
+following day with a lower close.After going through these charts and getting
+familiar with the Hammer and Hanging Man
+signals, think and analyse in your mind the
+signal formation day. This will reinforce
+your confidence as you will now know the
+reasoning behind your trade. Traders can
+only be so much successful if they don’t
+understand their trades. Eventually, their
+losses will mount more than their profits.
+Understanding candlestick signals will give
+a big boost to your confidence and help you
+pull the trigger at the right place and at the
+right time.
+5
+Inverted Hammer and Shooting
+Star Signals
+The Inverted Hammer and the Shooting Star
+signal also belong to the class of one-day
+reversal signals. We will basically flip the
+Hammer and the Hanging Man signals upside
+down to generate these new signals.Inverted Hammer
+Description
+Figure 5.1 shows the Inverted Hammer
+formation.
+Figure 5.1: Inverted Hammer signal
+As you can see from the directions of the
+arrows, the Inverted Hammer is found near
+the bottom of a downtrend.Criteria
+In order for the Inverted Hammer signal to be
+valid, the following conditions must exist:
+The stock must have been in a definite
+downtrend before this signal occurs. This
+can be visually seen on the chart.
+The upper shadow must be at least twice
+the size of the length of the body.
+The day following the Inverted Hammer
+should witness continued buying.
+There should either be no lower shadow
+or a very small lower shadow. The
+colour of the body does not matter, but a
+white body would be more positive thana black body.
+Why the Reversal Works
+Imagine a stock in a downtrend. As
+portfolios start showing red, there is panic in
+the street. People want to get out. That is the
+time smart money likes to buy. One day, as
+the stock opens down or flat, the bulls start
+stepping in. They drive the price higher
+during the day. Eventually, the bears drive it
+back down and close it near the open of the
+day. The bulls have, however, shown their
+presence. They can now sense that the bears
+are getting weaker. If the bulls manage to
+close the price higher the next day, the
+downtrend is considered broken. The key
+here, as was in the case of the Hammer, isthat the bulls need to show confirmed buying
+the next day. Again, the Japanese candlestick
+traders have placed emphasis on the fact that
+the upper shadow must be at least twice that
+of the body size. The colour of the body does
+not matter, though a white body would be
+ideal. That would demonstrate the bulls
+managed to close the price higher than where
+the stock had opened up.
+The following conditions can make the
+Inverted Hammer signal a more compelling
+buy:
+There is a gap down from the previous
+day’s close on the day the Inverted
+Hammer is formed.
+There is a spike in volume on theInverted Hammer day.
+Stochastics are in oversold condition.
+The longer the upper shadow, the more
+the dominance shown by the bulls.
+Figure 5.2 shows the chart of Prism Cement.Figure 5.2: Gap down Inverted Hammer in
+Prism Cement
+What a perfect visual depiction of panic
+selling! The gap down on the day of the
+Inverted Hammer in oversold conditions
+should immediately alert the trader for a
+possible trend reversal. The correct entryprocedure would be to wait for confirmation
+of buying the next day, which in this case
+was pretty evident.
+Figure 5.3 again shows the Prism Cement
+chart, this time focusing in the June 2006
+period.
+Figure 5.3: Inverted Hammer in Prism
+Cement
+We witness a gap down Inverted Hammer in
+oversold conditions. What should the
+candlestick traders do here? They should
+wait for confirmation. The next day the
+buying was confirmed as shown by the white
+candle. The traders are now ready to pull the
+trigger. What happens then is very interesting
+and worth elaborating. The day after the
+confirmation, the price gaps up. Many
+traders will now hesitate to jump in the
+market. Their rationale being, is it worth it to
+buy the stock after it has now gapped up?
+Have I lost my buy point?
+The key to remember is “buy strength and
+sell weakness”. What the market hasessentially shown you is strength. Listen to
+the market. The market is never wrong!
+Figure 5.4 shows an Inverted Hammer in Dr.
+Reddy’s Laboratories chart.
+Figure 5.4: An Inverted Hammer proved
+very effective in Dr Reddy’sNotice the massive selling for three days in a
+row before the Inverted Hammer. With
+Stochastics in oversold conditions and
+confirmation buying on the following day, the
+market was offering a high probability
+reversal scenario to the trader. You can also
+notice an Inverted Hammer like formation in
+the chart in September. The upper shadow
+was not quite twice the body size.
+Stochastics were not in oversold conditions
+either. It proved to be a good reversal, but
+it was not a candlestick signal. The trader
+would be well advised not to chase these
+“almost” candlestick formations. There are
+hundreds of pure candlestick signals being
+formed every day. They have been tested
+thoroughly for centuries. Take advantage of
+them. Do not unnecessarily put your hardearned money in trying to reinvent the wheel.
+We will conclude the Inverted Hammer
+discussion with Figure 5.5, showing the chart
+of Tata Power Co. Ltd.
+Figure 5.5: An Inverted Hammer starts
+the next leg up in Tata PowerWhat can you observe before the downtrend
+reversed? You can see there was a Hammer.
+Would you buy the day after the Hammer?
+No. If you said yes, you might want to re-
+read the previous chapter. To be a true
+reversal, the Hammer signal needs
+confirmation. In this case there was none.
+However, the Hammer was followed by an
+Inverted Hammer. The day after that was a
+Doji day, where price closed higher and
+confirmed the presence of the bulls. I would
+probably have bought after prices gapped up
+following the Doji day.
+Here, again, the market was giving strong
+signals to the trader who was tuning in. It
+gave him a Hammer, then followed that with
+an Inverted Hammer, then followed that witha Doji, and then a gap up. All these signals
+were suggesting that the bulls were coming
+into the stock. Learn to analyze these
+formations and the market will reward you.Shooting Star
+Description
+Figure 5.6 shows a visual depiction of the
+Shooting Star signal.
+Figure 5.6: Shooting Star signal
+It is formed after a stock has been in adefined up trend. The formation looks like a
+shooting star with its tail pointing to the sky,
+hence the name.Criteria
+The conditions for the Shooting Star signal to
+be valid are:
+The stock must have been in a definite up
+trend before this signal occurs. This can
+be visually verified on the chart.
+The upper shadow must be at least twice
+the size of the body.
+The day after the Shooting Star signal
+should witness continued selling and a
+lower close.
+There should be no lower shadow or
+very small lower shadow.Why the Reversal Works
+Consider a stock in an up trend. When do
+most novice investors tend to buy? Right at
+the top! After a stock has gone up, they
+convince themselves that it will keep going
+up. Exuberance sets in. One day, as the stock
+opens higher or relatively flat, the investors
+jump in and create a huge white candle
+during the day. Smart money starts selling
+noticing the greed in the stock. The selling
+brings the price down, creating a long upper
+shadow. If the stock closes lower the day
+after the Shooting Star, the trend is said to be
+reversed.
+The following conditions make the reversal
+of the up trend more convincing:There is a spike in volume on the day of
+the signal.
+There is a gap up from the previous close
+on the day of the signal, indicating
+exuberant buying at the top.
+Stochastics are in overbought condition.
+The longer the upper shadow, the better.
+The colour of the Shooting Star body
+does not matter, but a black body would
+be a stronger confirmation.
+Figure 5.7 shows a Shooting Star formation
+in the Tata Teleservices chart.Figure 5.7: Shooting Star in Tata
+Teleservices starts its downtrend
+The Shooting Star formation in overbought
+conditions and with above average volume
+gives a candlestick trader the perfect
+opportunity to enter into a short side trade.
+When would a trader enter the market in thiscase?
+Keep in mind that you are always looking for
+confirmation of the candlestick signal. This
+was provided by the bears the following day
+by closing the price below the low of the
+Shooting Star. The trader would have been
+handsomely rewarded for his chart analyzing
+talents in this case.
+Figure 5.8 shows a Shooting Star formation
+in Dr. Reddy’s Laboratories chart.Figure 5.8: Dr. Reddy’s heads south after a
+Shooting Star signal
+This was a perfect Shooting Star followed
+by confirmed selling the next day. The
+stochastics turned down, also confirming the
+start of the downtrend.Notice the chart in Figure 5.9 showing an
+imperfect Shooting Star formation in Nocil.
+Figure 5.9: Bulls fail to hold on after the
+Shooting Star signal in Nocil
+There is a tiny lower shadow in that
+Shooting Star. Given the size of the upper
+shadow, that length of lower shadow is
+acceptable. Notice the Shooting Star did notconfirm the next day as it was a Doji /
+Spinning Top. Correct entry point would be
+to enter the short trade after these signals got
+confirmed to the downside with a bearish
+candle.
+We have now covered the major one-day
+reversal signals. The important point to
+remember about them is to wait for
+confirmation. In the next couple of chapters
+we will focus on and analyze the major two-
+day candlestick reversal patterns.6
+Engulfing Signals
+There are two types of engulfing signals
+defined by candlestick formations. These
+belong to the two-day reversal patterns. We
+will first look at Bullish Engulfing pattern.Bullish Engulfing
+Description
+Figure 6.1 shows a classic Bullish Engulfing
+signal.
+Figure 6.1: Bullish Engulfing signal
+The signal is formed when a subsequentwhite body completely engulfs the previous
+black body.Criteria
+In order for the bullish engulfing signal to be
+valid, the following conditions must exist:
+The stock must have been in a definite
+downtrend before this signal occurs. This
+can be visually seen on the chart.
+The second day of the signal should be
+white and the body should completely
+engulf the previous day’s black candle
+body. Even if the first day is a Doji
+(described in Chapter 3), it is still a
+bullish engulfing signal.
+Why the Reversal WorksConsider a stock which has been steadily
+moving down. The investors in the stock are
+getting nervous when they see red on their
+screen day after day. They hope the stock
+will somehow turn around. After days of
+continued anguish, the investors cannot take
+it anymore. They now convince themselves
+to get out of the stock. Where do most
+investors sell? At the bottom! This creates
+the long dark candle of the first day. Because
+of the huge selling pressure, the stock gaps
+down on the open the second day, below the
+close of the previous day. But now smart
+money moves in. The supply is absorbed by
+the demand. The stock finally closes above
+the open of the previous day, thus creating
+the white engulfing candle. The bulls have
+now taken over. The bulls have showntremendous strength, which does not go
+unnoticed by the bears. The trend has a high
+probability of reversing at this point.
+Strong as the signal is in itself, the following
+conditions make it more probable that the
+trend has reversed:
+The first day’s dark candle body is very
+long compared to other candles in the
+current downtrend.
+There is a spike in volume on either of
+the two signal days.
+The first dark candle has gapped down
+from the previous trend. This shows the
+desperate need for the remaining panic
+sellers to get out of the stock.Stochastics are in oversold condition.
+The second day’s white body engulfs
+more than one black candle from the
+previous trend.
+Figure 6.2 shows a chart of Essar Oil.
+Notice the stock gapped down two days
+prior to the big white engulfing candle. Also
+notice that the white candle engulfed the two
+prior black candles, lending significant force
+to the reversal. As a trader, this is what you
+want to buy into. Remember, always buy into
+strength.Figure 6.2: Bullish Engulfing signal in
+oversold condition in Essar Oil
+Notice in Figure 6.3 how India Cement
+reverses the down trend for a very profitable
+trade after a bullish engulfing signal.Figure 6.3: India Cement exhibiting a gap
+up after forming a Bullish Engulfing signal
+Observe the large black candle showing
+panic selling by amateur investors. Smart
+money moves in the next day to readily take
+the stock from the panicky sellers. The up
+tick in volume also confirms the reversal. Asa trade, the probabilities are extremely high
+that the trend is now reversed. The bulls
+have stolen the thunder from the bears.
+What should a buyer look for after any
+bullish reversal signal? More buying! This
+sounds like a simple answer and the fact of
+the matter is that it is. However, most
+investors and traders do not use this simple
+logic. The buyer should await some
+confirmation that the bulls are still in control
+of the stock. It is not uncommon to see some
+residual selling after a big bullish engulfing
+candle. Those sellers who had held on
+through the panic selling finally sell out after
+seeing the price higher than the last couple of
+days. For confirmation that he needs the
+buyer should make sure from the chart thatsuch selling is not heavy.
+Figure 6.4 shows a classic Bullish Engulfing
+signal. The stochastics are in oversold
+condition and the big white candle day is
+accompanied by a spike in volume. As a
+trader, the correct strategy is buying on
+confirmation the following day.
+Figure 6.4: Bullish Engulfing signal withheavy volume indicates possible trend
+reversal
+Finally, Figure 6.5 shows IPCL reversing its
+downtrend after a small bullish engulfing
+signal. Even though the engulfing candle is
+very small, it is still a bullish engulfing
+signal. The reader can also observe another
+bullish engulfing signal in the chart in late
+September which starts the next phase in the
+up trend.Figure 6.5: Bullish Engulfing signal
+reversing IPCL’s downtrendBearish Engulfing
+Description
+Figure 6.6 shows a classic Bearish Engulfing
+signal. As is seen, the signal is formed when
+a dark body completely engulfs a white body.
+Figure 6.6: Bearish Engulfing signalCriteria
+In order for the bearish engulfing signal to be
+valid, the following conditions must exist:
+The stock must have been in a definite up
+trend before this signal occurs. This can
+be visually verified on the chart.
+The second day of the signal should be
+black and the body should completely
+engulf the previous day’s white candle
+body. Even if the first day is a Doji, it is
+still a Bearish Engulfing signal.
+Why the Reversal Works
+Consider a stock which has been steadilymoving up. The investors in the stock are
+growing exuberant by the day they see the
+stock go up. The bulls are happy and relaxed.
+After days of continued up trend, the amateur
+investors finally convince themselves of
+buying into the stock. They cannot bear to
+watch its price go up and not participate in
+it. Again, where do most investors buy? At
+the top!
+This creates the long white candle of the first
+day. The pent up demand makes the stock gap
+up the next day. But now the smart money is
+selling into the final rally. The demand of the
+novice investors is constantly filled by the
+supply from experienced traders. The stock
+finally closes below the open of the previous
+day, thus creating the dark engulfing candle.The bears have now taken over. The trend
+has a high possibility of reversal.
+Strong as the signal is by itself, the following
+conditions make it more convincing:
+The first day’s white candle body is very
+long compared to the rest of the trading
+range.
+There is a spike in volume on either of
+the two signal days.
+The first white candle has gapped up
+from the previous trend. This shows the
+desperate need of the novice investors to
+get into the stock.
+Stochastics are in overbought condition.
+The second day’s dark body engulfs morethan one white candle from the previous
+trend.
+Figure 6.7 shows another Bearish Engulfing
+signal.
+Figure 6.7: Bearish Engulfing signal near
+overbought conditions in HindustanMotors
+As you can see, candlestick charting clearly
+depicts investor sentiment changing in the
+stock. A candlestick trader could have long
+seen the deterioration in the health of this
+stock before the bearish engulfing signal
+finally broke it down.
+Figure 6.8 clearly reveals the exuberance of
+the novice investors buying into the top of the
+trend.Figure 6.8: ITI Ltd. showing Bearish
+Engulfing signals after exuberant buying
+How often do we get caught in this situation?
+When the stock rallied from below ` 30, the
+novice investor wanted to wait to see if this
+was a good stock. The investor was finally
+convinced that this stock deserves his or hermoney somewhere in the ` 70 range. Finally,
+when it looks like everybody in the
+neighbourhood is buying in the stock, the
+novice jumps in. This is the last panic
+buying. Smart money then starts selling to the
+inexperienced investors.
+JCT Ltd shows a Bearish Engulfing pattern
+in Figure 6.9.Figure 6.9: Bearish Engulfing signal in
+JCT Ltd.
+Notice the gap up in overbought condition
+forming the white candle. The volume
+expanded showing a lot of shares changing
+hands. Finally, the bearish dark candle
+completed the pattern. What should a trader
+see after the Bearish Engulfing pattern? Moreselling!
+The candlestick signals have been tested
+through 400 years of trading. They signify a
+high degree of probability that the trend is
+about to reverse. The trader should always
+keep this in mind. This will help build
+confidence while actually placing a trade.
+In the case of Manali Petro in Figure 6.10,
+one can visually observe the climactic
+buying in the stock.Figure 6.10: Manali Petro’s Bearish
+Engulfing signal produces quick profits
+Stochastics near the overbought area should
+have alerted the astute trader that exuberant
+buying was taking place. All the trader needs
+now is to patiently wait for the sell signal.
+On completion of the bearish engulfing
+signal, the trader should either sell his or hershares or employ any number of other
+bearish strategies. Another high probability
+scenario to be taken advantage of!
+Figure 6.11 shows the Nifty index reversing
+its up trend after a bearish engulfing signal.
+Figure 6.11: A Bearish Engulfing signaltakes down the Nifty
+Stochastics indicated that the index was in an
+overbought condition. This created a high
+probability situation for trend reversal. If
+you do not want to trade the index itself, you
+can find stocks which are exhibiting sell
+signals at this time. With the market index
+showing a bearish engulfing pattern, there is
+a high probability that the component stocks
+with a bearish reversal signal will make for
+a profitable trade to the downside.
+Candlestick signals are universal. They can
+be applied to indexes as well.
+Exceptions
+There is one unique set-up that sometimesoccurs the trend of bullish and bearish
+engulfing patterns, which can be summarized
+as follows.
+If a bullish engulfing signal occurs when
+the stock is in an overbought condition,
+then the signal has bearish implications.
+This is usually referred to as last-gasp
+buying. The novice investors seeing the
+price gap down are thrilled to get into the
+stock. Their enthusiasm drives the stock
+price higher for the day causing the bullish
+engulfing pattern. Unfortunately, the smart
+money is selling their stock. The trader must
+now be alert for signs that the trend is about
+to turn down.
+Let us analyse the chart of NagarjunaFertiliser and Chemicals Ltd (Figure 6.12),
+for the three days starting May 11th.
+Figure 6.12: Bullish engulfing signal in
+overbought conditions is not a buy
+scenario
+The stock had a bearish engulfing signal on
+May 11th. The trader should now be on
+guard to take profits if the signal isconfirmed.
+On May 12th, the stock opened lower, but
+then immediately headed higher. This is not
+what you want to see after a bearish
+engulfing signal. By the end of the day, it had
+formed a bullish engulfing signal. The trader
+should now start expecting a sell signal
+anytime, knowing the reasoning behind this
+phenomenon.
+The very next day witnessed a bearish
+engulfing signal, which was confirmed the
+day after by more selling.
+Proper use of candlestick signals can lead to
+highly profitable trades. It helps the trader’s
+confidence immensely if he also understandsthe psychology behind the signals.
+If a bearish engulfing signal is witnessed in
+an oversold condition, then the
+implications of such a signal are bullish.
+Take a moment to visualize what is going on
+in such a case. After an extended downtrend,
+smart money has started buying. This
+pressure causes prices to gap up. The novice
+investors, looking to take advantage of the
+higher prices on the open, start selling
+causing the temporary bearish engulfing
+pattern. Most of the times the smart money is
+strong enough to turn the tide in the reverse
+direction.
+Candlestick signals have stood the test of
+time and made huge fortunes for those whohave correctly utilized them. Learn to read
+and analyse the chart day by day. Always
+keep in mind the following two simple facts:
+If you witness a candlestick sell signal in
+overbought condition, it has to be
+followed by more selling to prove that
+the sellers are still around.
+If you witness a candlestick buy signal in
+oversold condition, it has to be followed
+by more buying to confirm that the buyers
+are forceful enough to turn the trend.
+Simple as these facts may seem, they can
+make or break a trader!7
+Dark Cloud and Piercing
+Signals
+This chapter will describe in detail the
+nuances of trading the Dark Cloud signal and
+the Piercing signal. These also belong to the
+class of two-day reversal signals. They are
+sort of like a “semi” completed version of
+the Bearish Engulfing and the Bullish
+Engulfing signal, respectively.Piercing Signal
+Description
+Figure 7.1 shows a classic Piercing Signal.
+As you can see, the signal is formed when a
+white coloured body opens below the low of
+the previous day’s trading range and closes
+above the half-way point of that dark body.Figure 7.1: Piercing SignalCriteria
+In order for the piercing signal to be valid,
+the following conditions must exist:
+The stock must have been in a definite
+downtrend before this signal occurs. This
+can be visually seen on the chart.
+The second day of the signal should be a
+white candle opening below the trading
+range of the previous day and closing at
+least half way into the body of the
+previous day’s dark candle.
+Why the Reversal Works
+Let us say stock XYZ is moving downsteadily. There comes a time when investors
+who are suffering losses in that stock begin
+doubting themselves. They start getting
+emotionally drained looking at their
+portfolios every day. Finally, they give up.
+Usually there is a climactic sell-off in the
+stock. Next day the stock gaps down and
+smart money pours in. The supply of shares
+is snapped up by the demand. The stock
+starts rising and finally closes up for the day
+creating the white candle body. Now, the
+Japanese give great importance to the
+number 2. They have found over centuries of
+trading that if the bulls can manage to close
+the second day’s candle more than half way
+up the previous black candle, that puts the
+probabilities greatly in their favour that they
+have reversed the trend.The existence of the following conditions
+makes the trend reversal more convincing:
+The first day’s dark candle body is very
+long compared to the rest of the trading
+range.
+There is a spike in volume on either of
+the two signal days.
+The first dark candle has gapped down
+from the previous trend. This shows the
+desperate need for the last of panic
+sellers to get out of the stock.
+Stochastics are in oversold condition.
+The second day’s white body opens way
+below the trading range of the previous
+day.Figure 7.2 shows a chart of Essar Oil.
+Notice how the trend reversed with a
+piercing signal. Also observe that the
+stochastics were in the oversold region,
+giving that much more weight to the
+probability of this happening.
+Figure 7.2: Piercing signal in oversoldconditions in Essar Oil
+Observe the chart of GE Shipping in Figure
+7.3.
+Figure 7.3: Start of an up trend after a
+Piercing signal in GE Shipping
+The first day of the pattern was a gap downdark bodied candle. Given the fact that the
+stochastics are in oversold condition, this
+was a clue for any trader to watch closely
+for a trend reversal sign. The trader at this
+point should visually be imagining the panic
+most investors are going through and should
+be ready to act at the first signs of smart
+money moving in. That sign was given the
+next day with a piercing signal.
+Figure 7.4 shows how the bulls reversed the
+downtrend with a Piercing signal.Figure 7.4: Mahindra and Mahindra going
+up after a huge Piercing candle
+Notice that in this case the stochastics were
+not in the ideal oversold conditions.
+However, one should remember that the
+candlestick signal is the primary factor. The
+oscillators are secondary factors. Though theprobabilities are higher for a trend reversing
+when the signal is formed in the oversold
+area, the trader should not neglect these
+opportunities. This is especially true in
+strong trending markets when the position
+never pulls back enough to get oversold.
+Figure 7.5 shows the chart of Rolta India
+Ltd. in the early part of June 2006.Figure 7.5: Rolta reverses its downtrend
+after panic selling is followed by a Piercing
+signal
+By now you are well trained to recognize the
+Piercing signal. But look at the days
+preceding that signal. The dark coloured
+bodies are getting larger. Aren’t theyshouting “panic!”?Dark Cloud Cover
+Description
+Figure 7.6 shows a Dark Cloud Cover
+signal. As can be seen, the signal is formed
+when a dark coloured body opens above the
+previous day’s trading range and closes more
+than half way into the white coloured body.Figure 7.6: Dark Cloud Cover signalCriteria
+In order for the Dark Cloud Cover signal to
+be valid, the following conditions must exist:
+The stock must have been in a definite up
+trend before this signal occurs. This can
+be visually verified on the chart.
+On the second day of the signal, the
+candle should open above the previous
+white coloured body’s trading range and
+close more than half way into it, thus
+forming a black body.
+Why the Reversal WorksConsider a stock moving up. Things are rosy
+and investors are happy. Then one day the
+exuberance sets in forming a good sized
+white candle. The next day the price gaps up
+and smart money starts selling the stock to
+novice traders. The selling overwhelms the
+buying and finally the candle closes more
+than half way into the previous white candle.
+As in the case of the Piercing pattern, the
+important thing to notice is that the dark
+candle closes deeply, at least half way, into
+the previous candle.
+The following conditions make it more
+convincing that the trend has reversed:
+The first day’s white candle body is very
+long compared to the recent tradingrange.
+There is a spike in volume on either of
+the two signal days.
+The first white candle has gapped up
+from the previous trend. This shows the
+exuberance of novice traders.
+Stochastics are in an overbought
+condition.
+The second day’s dark candle opens way
+above the previous day’s trading range.
+Figure 7.7 shows a Dark Cloud Cover signal
+in the chart of Allahabad Bank.Figure 7.7: Dark Cloud Cover signal in
+overbought conditions in Allahabad Bank
+A huge surge in buying can be seen from the
+volume on the day before the Dark Cloud
+signal. Notice that conditions were already
+overbought as indicated by the stochastics.
+Figure 7.8 shows the chart of Aegis LogisticsLtd.
+Figure 7.8: Aegis Logistics drops like a
+rock following a Dark Cloud signal
+The stock had run up from ` 230 level to the `
+300 area. The bulls were getting excited.
+They gapped the prices higher, but could not
+sustain the momentum. Notice the climacticvolume surge. What followed the Dark
+Cloud Cover was almost a 180 point drop.
+Look at the chart in Figure 7.9. Try to
+analyze it from a technical trader’s
+perspective.
+Figure 7.9: Dark Cloud Cover signalconfirming previous resistance in SAIL
+Can you see the Dark Cloud Cover signal?
+Now trace back an imaginary horizontal line
+to the month of May and notice another
+candlestick signal (Hint: see previous
+chapter). This is a trader’s delight. When one
+signal corroborates another signal at a
+previous resistance point, the probabilities
+are extremely high that the trend has
+reversed. Chapter 10 will go in detail about
+using support / resistance lines.
+Figure 7.10 shows another Dark Cloud
+Cover.Figure 7.10: Dark Cloud Cover in Birla
+VXL
+In May 2005, all the ideal conditions had
+lined up for a trend reversal in Birla VXL:
+Stochastics in overbought condition;
+There was exuberant buying asrepresented by large bodied candles;
+Dark Cloud Cover signal.
+As a candlestick trader, you are now seeing
+the market as a game of greed and fear. You
+are visually training your eyes to detect the
+panic and exuberance of other novice
+traders. Let me emphasize again the fact that
+these signals have been tested for about four
+hundred years by the Japanese. Have
+confidence in them.
+8
+The Harami
+The Harami is another potent two-day
+reversal signal. The Japanese have named it
+Harami because of the way the signals looks,
+as though depicting a pregnant women with
+her belly sticking out.
+The Harami occurring in an up trend
+implies that the buying has stopped.
+Likewise, a Harami occurring in a
+downtrend indicates that the selling has
+stopped. As in the case of the one-day
+reversal signals, it is best to wait forconfirmation the next day before taking on
+any position.Bullish Harami
+Description
+Figure 8.1 shows a Bullish Harami
+formation. The bigger engulfing candle is
+black or dark in colour and the subsequent
+smaller engulfed candle is white or light in
+colour. It is not necessary for the tails of the
+smaller candle to be engulfed by the
+previous candle.Figure 8.1: Bullish Harami signalCriteria
+In order for the bullish Harami signal to be
+valid, the following conditions must exist:
+The stock must have been in a definite
+downtrend before this signal occurs. This
+can be visually seen on the chart.
+The second day of the signal should be
+white and the body should be completely
+engulfed by the previous day’s black
+candle body.
+Why the Reversal Works
+Consider a stock trending down. As usual,
+the novice investors and traders panic at thebottom creating the long black candle.
+However, due to some news or change in
+perception after trading hours, demand gets
+generated for the stock. The next day the
+stock gaps up and smart money starts sapping
+up the supply. The bulls are able to close the
+candle towards the upper range of the
+previous day. This makes the bears nervous.
+Those who have shorted the stock in the hope
+that it will keep going down are now having
+second thoughts. They are waiting to see
+what happens the next day. If the bulls are
+still in the stock the next day, those with short
+positions begin to cover their positions, thus
+giving the stock more impetus in the upward
+direction. The bulls get more confident and
+the up trend begins.The following conditions can make the
+Bullish Harami signal a more compelling
+buy:
+The longer the black engulfing candle
+and the white engulfed candle, the higher
+the chance that the trend will be
+reversed.
+There is heavy volume on either of the
+two days of the signal formation.
+Stochastics are in an oversold condition.
+The higher the white candle closes into
+the black candle body, the higher the
+probability of reversal.Bearish Harami
+Description
+Figure 8.2 shows a Bearish Harami
+formation. The bigger engulfing candle is
+white or light in colour and the following
+smaller engulfed candle is dark or black in
+colour. It is not necessary for the tails of the
+smaller candle to be engulfed by the
+previous candle.Figure 8.2: Bearish Harami signalCriteria
+In order for the Bearish Harami signal to be
+valid, the following conditions must exist:
+The stock must have been in a definite up
+trend before this signal occurs. This can
+be visually seen on the chart.
+The second day of the signal should be
+black and the body should be completely
+engulfed by the previous day’s white
+candle body.
+Why the Reversal Works
+Consider a stock trending up. As is most
+often the case, the novice investors andtraders buy exuberantly at the top creating the
+long white candle. However, due to some
+news or change in perception after market
+hours, the stock becomes less desirable to
+own. The next day the stock gaps down and
+smart money starts selling. The bears are
+able to close the candle down towards the
+lower range of the previous day. This makes
+the bulls nervous. Those who have recently
+bought the stock in the hope that it will keep
+going up are now on the edge. They are
+waiting to see what happens the next day. If
+the bears are still in the stock the next day,
+the selling continues and the stock starts
+heading lower. Those with recent long
+positions start selling to get out with a small
+loss and along with the bears shorting, the
+stock tumbles down.The following conditions can make the
+Bearish Harami signal more compelling to
+short:
+The longer the white engulfing candle
+and the black engulfed candle, the higher
+the chance that the trend will be
+reversed.
+There is heavy volume on either of the
+two days of the signal formation.
+Stochastics are in an overbought
+condition.
+The deeper the black candle closes into
+the white candle body, the higher the
+probability of reversal.
+You will notice on some of the charts that thesecond day of the signal (the engulfed
+candle) is one of the one-day reversal
+signals. In cases of a Bearish Harami, it
+could be a Hanging Man or a Shooting Star,
+or even a Doji.
+Conversely, in cases of a Bullish Harami, it
+could be a Hammer or an Inverted Hammer
+or a Doji. This adds weight to the fact that
+reversal is about to happen. When you see
+more than one candlestick signal at any point
+in a trend indicating that a trend reversal is
+possible, take notice immediately!
+Figure 8.3 shows a Bullish Harami formation
+in Hindustan Motors.Figure 8.3: Bullish Harami in Hindustan
+Motors starts its up trend
+Notice how the price gapped up the day after
+the Harami signal formed. What does this tell
+you as a candlestick trader? It tells you that
+other investors want to get into this stock in a
+hurry. After the downtrend, something has
+changed the perception towards the stock.Maybe it was a good earnings report or a
+huge contract gain. As a trader, it is
+immaterial to find out what the news was that
+changed the perception. It is always helpful
+to know, but not necessary. As a trader, you
+are more concerned about the strength of the
+new upturn. Seeing the gap up should give
+you the required confidence that there is a
+strong force behind the up move. Time to
+jump in!
+Figure 8.4 shows the chart of IPCL.Figure 8.4: Confirmed Bullish Harami
+reverses downtrend in IPCL
+Notice the two arrows marked in the
+downtrend. Both are pointing to Harami
+formations. You can see that the selling
+continued after the first Harami had formed.
+The second Harami stopped the selling and a
+new upturn was initiated. The question to askyourself is — should you have considered
+buying after the first Harami? I would not.
+Why? Because there was no confirmation
+buying the day after the signal was formed. In
+fact prices gapped down after this Harami.
+This is not what you would expect after a
+candlestick buy signal. Stochastics were still
+heading down, too. How about the second
+Harami? Prices gapped up after this Harami
+and closed higher. Stochastics were oversold
+by this time, thus creating a high probability
+reversal situation.
+This is not to say that all signals that get
+confirmed will result in a profitable trade.
+We will get into the signal failure scenarios
+in Chapter 11. This example was just to
+show you that analyzing the signals andunderstanding the nuances can avoid a lot of
+bad trades. This does two things, it helps
+preserve your capital and, more importantly,
+it helps keep your trading confidence high.
+The chart of the Nifty index is shown in
+Figure 8.5.
+Figure 8.5: Bullish and Bearish Harami in
+Nifty
+Notice the chart at point A. This formation
+looks like the Harami, but it actually is not.
+Nifty opened a point higher than where it had
+closed the day before. This does not satisfy
+the conditions needed for the Harami
+formation. Point B is a Bearish Harami.
+Nifty opened exactly where it had closed the
+night before. This is acceptable and satisfies
+the criteria of engulfment. Point C is a
+Bullish Harami. This stopped the pullback of
+the Nifty and was a precursor to a huge run
+up of the index.
+Figure 8.6 shows a Bullish Harami in the
+chart of Tata Tea. Notice the long dark
+candle in oversold conditions. This shouldhave been the trader’s first alert. He should
+have been on the lookout for a buy signal
+from then on. The next day a Harami was
+formed. The trader should then have
+analyzed the Harami formation. Look at the
+long lower shadow. The bears tried to take
+control on that day, but failed.
+Figure 8.6: Bullish Harami in upper region
+of a previous body is a very powerful buy
+signal
+The bulls had not only managed to gap up the
+price from the previous close, but also to
+close it higher than the open. The ideal point
+would have been to buy the stock on
+confirmation after the Harami.
+Figure 8.7 shows the chart of Rolta India.Figure 8.7: Bullish Harami in Rolta
+Notice the couple of Harami formations in
+March 2005. The first Harami formation
+(Point A) would have resulted in a small
+loss, if a trader would have purchased the
+stock on the gap up after the Harami. Again,
+this will be dealt with in Chapter 11. The
+second Harami formation (Point B) has ahigh significance. It is a confirmation of the
+bulls entering the market. The fact that you
+can see two Harami formations at the same
+level indicates a great desire on the part of
+the bulls to not let the prices fall further.
+Guess what this confirmation Harami does to
+the bear’s psyche? If the first Harami made
+them nervous, the second Harami at the same
+level dissolves their confidence. The shorts
+start covering their position. New buying
+comes in. The candlestick trader should be
+buying as soon as the prices open higher the
+next day. In this case, the prices again
+gapped up adding to the confirmation of
+trend reversal. Notice how in June 2005 the
+rapid pullback was also stopped with a
+spinning top Harami (Point C).Finally, let us look at the chart of ABB Ltd.
+(Figure 8.8)
+Figure 8.8: Bullish and Bearish Harami
+reversing trends in ABB Ltd.
+Notice how after the price had risen from
+around the ` 2,800 area to the ` 3,300 area,
+the candles started getting bigger and thevolume started expanding. Investors were
+now buying exuberantly. If you had owned
+this stock, where would you sell it? The
+correct point would have been to sell as
+soon as the Bearish Harami got confirmed.
+Remember, the point of trading is not to buy
+exactly at the bottom and sell exactly at the
+top. Leave that to somebody else to try. It is
+simply too difficult and not worth the risk.
+As a candlestick trader, you will try to
+capture the juicy middle part of the trend.
+9
+Morning Star and Evening Star
+Signals
+The Morning Star and Evening Star are very
+powerful three-day reversal signals and once
+mastered they help traders reap huge profits.Morning Star Signal
+Description
+Figure 9.1 shows a Morning Star signal
+formation. The Japanese named it so because
+like the planet Mercury, which is known as
+the morning star, it foretells of good things to
+come (morning). In the case of stocks, it
+means that the prices will start moving
+higher from here on.Figure 9.1: Morning Star signalCriteria
+In order for the Morning Star signal to be
+valid, the following conditions must exist:
+The stock must have been in a definite
+downtrend before this signal occurs. This
+can be visually seen on the chart.
+The first day of the signal must be a long
+dark body. The second day must be a day
+of indecision. The third day should be a
+long white candle reaching at least half
+way into the body of the first day’s dark
+candle.
+There are many variations of the Morning
+Star signal. Figure 9.2 shows a few of thesevariations.
+Figure 9.2: Morning Star signal variations
+Why the Reversal Works
+Consider a stock which has been steadily
+moving down. Then one day panic grips the
+investors in that stock. They no longer want
+to hold on to the losing position. This panicselling creates a long dark candle. The next
+day there is a battle between the bulls and
+bears. Smart money is buying and the final
+panicky sellers are happy to sell to them.
+This creates indecision. The bulls seize this
+opportunity to get control of the stock. The
+short sellers start covering their position
+leading to further upward movement. The
+signal is formed when bulls are able to close
+the candle half way up the dark candle
+formed two days back. Probabilities support
+trend reversal at this point.
+The Morning Star signal is a very visual
+signal, where you can actually see the change
+in investor perception towards the stock. In
+Figure 9.2, you can witness the various days
+of indecision. If the middle day is a one-dayreversal signal, that adds more weight to the
+Morning Star signal.
+Notice the Abandoned Baby Morning Star
+signal shown in the same figure. This is a
+very powerful reversal signal. Analyze the
+formation. There is a gap between the low of
+the first day and the high of the second day.
+There is also a gap between the high of the
+second day and the low of the third day.
+What is going on in that formation in terms of
+fear and greed? The first gap shows panic
+selling in the stock. Then the bulls and the
+bears get locked into a fight. The third day
+shows the outcome of the fight. The second
+gap represents the strength of the victory.
+You as a candlestick trader have to be in this
+stock at this point!The following circumstances will further
+enhance the probability of reversal shown by
+the Morning Star signal:
+The first day’s dark candle body is very
+long compared to the rest of the trading
+range. By definition of the signal, this
+would necessitate that the bullish candle
+on the third day be large as well.
+There is a spike in volume on the
+indecision day.
+Stochastics are in an oversold condition.
+The second day forms one of the one-day
+candlestick reversal signals.
+Figure 9.3 shows the chart of Bharat Heavy
+Electricals Limited.Figure 9.3: A big Morning star signal in
+oversold conditions in BHEL
+Notice the excellent Morning Star formation
+in mid-January 2007. By now your eyes
+should be trained to notice some obvious
+things. The position of Stochastics, the heavy
+volume, and the large candles on the first and
+third day of the formation all lead to a textbook type Morning Star signal.
+Also notice the arrow marked on the chart in
+mid-December 2006. Can you analyze why
+this is not a Morning Star signal?
+If you noticed that the third day of the signal
+did not penetrate at least half of the first
+day’s black candle, you are right. As
+mentioned before, the Japanese have placed
+a lot of emphasis on the half way point. The
+closing of the white candle over the half way
+point shows the credibility of the strength of
+the bulls. It was missing in this case.
+Figure 9.4 shows a Morning Star formation
+in Cummins India Ltd. chart.Figure 9.4: Morning Start signal reversing
+the downtrend in Cummins India
+Notice in this chart that the stock gapped up
+after the indecision day, even though it traded
+down during the day. That gap up represents
+the forceful nature of the bulls. This always
+adds weight to the reversal.Figure 9.5 shows a Hammer Morning Star
+signal.
+Figure 9.5: Morning star signal in Essar
+Oil
+The Hammer tells you that all the remaining
+sellers got washed out. The stock changedhands from the weak to the strong. The third
+day witnessed prices closing just above the
+half way point of the first day’s dark candle.
+Sometimes in a Morning Star formation, the
+middle day is not exactly a Doji type day. It
+is a small body, indecisive day (also called a
+Spinning Top). Analyze the signal formation
+in Figure 9.6 (Point B) keeping in mind the
+action behind the scenes. After the first down
+day, the sellers were not able to drive down
+the price much lower. The bulls stepped in
+on the third day to take control after seeing
+the selling dry out.Figure 9.6: Bulls jumping in after Morning
+Star signals in Matrix Laboratories
+Point A in the chart also shows the trend
+reversed with a Morning Star signal. What
+stopped this up trend? The Shooting Stars
+and the Bearish Engulfing signal.
+Let us close our discussion of Morning Starsignals with Figure 9.7 showing a chart of
+Tata Steel.
+Figure 9.7: Tata Steel reversing after a
+Morning Star signal
+We can see a well defined Morning Star
+signal form in mid-June 2006. Let us assume
+as a trader you buy into the position. Wherewill you take profits?
+As you can see from the chart, the correct
+place to take profits was after Point 5. Let us
+analyze why we should not have taken profits
+earlier:
+Point 1: A Dark Cloud signal is formed in
+overbought conditions. What do you
+want to see the next day?
+Confirmation selling! In this case
+there was none.
+Point 2: This is not a Bearish Harami. The
+colour of the candles is opposite to
+the definition of a Bearish Harami.
+Point 3: This shows another Dark Cloud
+signal. The bears are really tryinghard, but fail yet again to produce
+confirmation selling.
+Point 4: This is a repeat of Point 3.
+Point 5: This shows a Bearish Harami in
+overbought conditions. What happens
+the next day? A gap down! As
+mentioned before, a gap up or gap
+down after a candlestick signal
+formation indicates tremendous
+strength in that particular direction. A
+simple analysis of the situation would
+have led you to take profits at this
+time.Evening Star Signal
+Description
+Figure 9.8 shows an Evening Star signal
+formation.
+Figure 9.8: Evening Star signal
+The Japanese named it so because like theplanet Venus, which is also known as the
+evening star, it foretells of gloomy things to
+come (night). In the case of the markets, it
+means that the prices will be heading lower
+from that point.Criteria
+In order for an Evening Star signal to be
+valid, the following conditions must exist:
+The price must have been in a definite up
+trend before this signal occurs.
+The first day of the signal must be a long
+white body. The second day must be a
+day of indecision. The third day should
+be a long dark candle reaching down at
+least half way into the body of the first
+day’s white candle.
+Figure 9.9 shows a few of these variations of
+the Evening Star signal.Figure 9.9: Evening Star signal variations
+Why the Reversal Works
+After an up trend, the novice investors finally
+start piling into the stock. This creates the
+exuberant white candle at the top. The next
+day, the demand is consistently met with
+supply from the smart money. The indecision
+day is followed by a large down day,
+indicating the bears finally taking controlfrom the bulls. As in the case of the
+abandoned baby Morning Star signal, seeing
+a gap between the first and second day and
+also a gap between the second and third day
+shows a massive change in investor
+psychology. Traders should immediately
+cash out their positions, or go short.
+The following circumstances will further
+enhance the probability of reversal shown by
+the Evening Star signal:
+The first day’s white candle body is very
+long compared to the rest of the trading
+range, indicating exuberant buying.
+There is a spike in volume on the
+indecision day.Stochastics are in overbought condition.
+The second day forms one of the one-day
+candlestick reversal signals. Figure 9.10
+shows an Evening Star formation in
+Hindustan Lever.
+Figure 9.10: Hindustan Lever falls after anEvening Star signal
+Notice that a Bearish Harami is part of the
+three day signal. As I mentioned before, this
+adds more weight to the reversal. One more
+point to mention for this chart is the presence
+of a Hanging Man signal a couple of days
+before the Evening Star signal. The Hanging
+Man was not confirmed. The trader who
+bought into the stock after the confirmed
+Hammer signal should have got out after the
+Evening Star signal.
+The chart in Figure 9.11 shows a classic
+Evening Star signal.Figure 9.11: Combination of Shooting Star
+and Evening Star signals take down S.
+Kumars
+The first sign of the bulls weakening was
+seen with the Shooting Star signal. The
+candlestick trader would not have acted on
+this as it did not get confirmed. Seeing theEvening Star signal form in the immediate
+vicinity of the Shooting Star gives the
+candlestick trader greater confidence that the
+up trend is reversing.
+Going short after the Evening Star signal in
+Figure 9.12 would have given a candlestick
+trader very good profits.
+Figure 9.12: Rapid fall after an Evening
+Star signal in Syndicate BankThis chapter concludes the discussion of the
+major candlestick reversal signals. We have
+seen how the one-day, two-day and three-day
+reversal signals work and their effectiveness
+at producing strong profits.
+What is expected of the readers at this point
+is a complete change in their perception of
+how the markets work. The stock markets, or
+for that matter all other financial markets,
+move because of change in investor
+sentiment. You are now learning to capitalize
+on this point. The sooner you learn to notice
+the fear and exuberance of other people as
+depicted in the charts, the faster you will
+grow your portfolio.PART II
+This part of the book concentrates on the
+practical aspects of using candlesticks for
+investing as well as trading. It is assumed at
+this point that you can visually recognize the
+major candlestick signals described in the
+first part. I also sincerely hope that you are
+analyzing the “behind-the-scenes” action
+whenever you look at a chart. Bears and
+bulls, supply and demand, greed and fear,
+these are the key metrics you need to think
+about when analyzing a chart.
+The following chapters will sharpen your
+candlestick skills. You will learn that when
+you combine the high probability reversalcandlestick signals with western technical
+analysis, the combination generates
+explosive profits. You will learn the
+different stop loss scenarios, in case a signal
+goes sour. This is part of money management
+that every person invested in the financial
+markets needs to get disciplined about.
+Growing a portfolio is not just about making
+great profits. It is also about cutting your
+losses on bad investments. What is the use of
+making two good trades, gaining 20%, and
+then losing it all in one bad trade?
+Candlestick signals and your new mind-set
+about reading the charts will empower you to
+cut your losses and retain more of your
+profits.
+Again, please read and re-read the chaptersthat follow. Do not jump in the river without
+learning to swim. The river is unforgiving.
+But once you master swimming, you will
+enjoy being in the water for the rest of your
+life.10
+Combining Candlesticks with
+Technical Analysis
+In this chapter we will look at candlestick
+signals in combination with other technical
+indicators. As you might have noticed, thus
+far in all the charts we have always used
+stochastics and volume in the lower portion
+of the chart. We will be consistent in doing
+that. If you are familiar and comfortable with
+RSI, MACD or any other oscillator which
+shows overbought / oversold conditions, that
+is perfectly fine. The key is to find highprobability trades utilizing candlestick
+signals when a security is in these extreme
+conditions.
+We will discuss candlestick signals in
+conjunction with the following:
+Support / resistance trend lines; and
+Moving averages.
+Every trader must read as many technical
+analysis books as possible in order to gain
+more and more in-depth knowledge of this
+field. Education is the most essential weapon
+in your trading arsenal. It takes years of
+education and training to become a
+successful doctor, an engineer or an
+architect. Please do not think trading isotherwise. Trading might seem very easy
+when looking at it from the outside. But in
+reality it is not. A trader has to be armed
+with knowledge, patience and discipline if
+s/he wants to succeed long term in the
+marketplace.Support and Resistance
+The stock market is a dynamic arena. Prices
+fluctuate up and down, sometimes on news,
+other times seemingly with no justification.
+Fundamentals of a company do not cause
+prices to move. It is the reaction of the
+people trading that stock that whipsaws
+the price. If prices were to move based only
+on the fundamentals of a company, then the
+stock market would be a discrete market
+where the price jumps from one point to the
+next only after some news hits the wires. The
+rest of the time it would be at a constant,
+fixed price. We all know that does not
+happen. Prices change everyday. They
+change because somebody has a change in
+perception for that stock. Technical analysisis the study of that perception change as seen
+in a chart. What better way to see this change
+of perception than using a candlestick chart.
+Figure 10.1 shows a stock vacillating back
+and forth between two price levels in a
+sideways market.
+Figure 10.1: Support and ResistanceWhenever the stock approaches the top price
+level, it sells off. The supply side of
+equation becomes greater than the demand
+side. This price level, where there is
+seemingly more supply than demand, is
+defined as a resistance level. The stock is
+now under pressure. The bears continue to
+dominate and take it down towards another
+price level, where the perception towards
+that stock changes 180 degrees. The demand
+side of equation now becomes greater than
+its supply side. This price level where
+there is more demand than supply is
+termed as a support level.
+Note: You can print out a chart and draw these
+support/resistance lines yourself. You can also
+use a Java charting application from websitessuch as Icharts.in, which will allow you to
+draw these lines online.
+So why does the stock keep doing what it
+does, i.e. go back and forth? The answer lies
+within us. We humans tend to remember
+things. Consider a stock which you wanted to
+buy but missed because of any number of
+reasons. What will happen when the stock
+pulls back to your original buy point?
+Naturally, you will jump in. Now consider
+thousands of traders doing that same thing. If
+the stock turns and starts heading back up,
+take a guess where you will start to feel
+panicky. It would be right about the same
+place where it started coming down from the
+last time. This process gets repeated until
+either the stock breaks the resistance leveland heads higher or else breaks the support
+and tumbles down.
+Figure 10.2 shows support and resistance
+lines for an up-trending and a down-trending
+stock. The logic behind the support /
+resistance lines, also referred to as trend-
+lines, is exactly the same as described
+above.
+Figure 10.2: Trend channelsLet me emphasize this point again. You are
+trading human emotions in the market, not the
+actual stock. The faster you accept this
+mantra, the clearer you will hear the market
+signals.
+A few points about these trend lines:
+Trend-lines can be horizontal or sloping.
+The more number of times the price tests
+the trend line, the stronger the support or
+resistance.
+Once a support trend line is broken,
+not intraday, but on a closing basis, it
+will function as a resistance trend line
+from then on. Similarly, once a
+resistance trend-line is broken on aclosing basis, it will function as a
+support trend-line from that point
+onwards.
+This is better explained visually in Figure
+10.3 and Figure 10.4.
+Figure 10.3: Previous resistance becomes
+supportFigure 10.4: Previous support becomes
+resistance
+Figure 10.5 shows the chart of Polaris
+Software.Figure 10.5: Support / Resistance lines in
+Polaris
+Notice the different trend-lines that can be
+seen. Also notice that in December, the stock
+tested the old resistance line. This time,
+though, that line acted as support. If you are
+now thorough with the candlestick signals,
+you will recognize the bullish Harami whichstopped the selling in December, right on the
+support line. Please analyze the three signals
+that are circled in the chart.
+The trader should also be aware of the fact
+that these trend lines are subjective. You can
+draw a trend line which can be different than
+the one I draw. After all, you are just taking
+two or more points on the chart and plotting
+a line through them. Then what is it that
+determines which is the correct trend line to
+be trading off?
+Let the market tell you which the correct
+trend line is. As a candlestick trader, what
+would you expect the market to show
+when approaching a trend line? A
+candlestick signal! Therefore, whichevertrend line the signal is formed at is the
+correct trend line.
+Figure 10.6 shows the well defined
+resistance area in Punjab Tractors.
+Figure 10.6: Punjab Tractors unable to
+close above the resistanceNotice the following candlestick signals in
+the chart at that trend line:
+1. A Bearish Engulfing signal in September:
+2. A Piercing pattern in early October:
+3. A Hanging Man in late October; and
+4. A Piercing signal in early December.
+Notice the chart of Satyam Computer in
+Figure 10.7Figure 10.7: Satyam Computer riding up in
+a trend channel
+This chart clearly defines a trend channel for
+the stock from around August 2006 till
+February 2007. Every time the stock hits the
+upper trend channel, the supply of shares
+exceeds the demand for them. Similarly, thedemand for the stock is heavy along the
+lower channel. These demand-supply
+imbalances make the stock fluctuate between
+those imaginary trend lines. Close
+observation of the chart at the reversal points
+along the trend channel indicates the
+following points:
+Point 1: Bullish Harami.
+Point 2: Hanging Man.
+Point 3: Bullish Harami.
+Point 4: Bearish Engulfing.
+Point 5: Bullish Engulfing.
+Point 6: This illustrates the previous trendchannel now acting as resistance.
+The examples above show how candlesticks
+work with support and resistance lines. If as
+a trader you anticipate a reversal situation at
+a particular point on the chart, then the
+knowledge of candlesticks will add
+confirmation to your expectation. If you
+expect a stock to turn lower at a resistance
+point but candlesticks show a tall white
+candle breaching that point, then your
+expectation should be negated. You should
+realize at that point that the stock has broken
+resistance with good force. On the other
+hand, if you see a Doji followed by a
+Hanging Man and a lower close at that
+resistance point, you know your expectation
+is fulfilled. The probabilities are in thefavour of the stock heading down.Moving Averages
+Moving averages essentially provide a
+directional trend to a stock or the market.
+They smooth out the ups and downs of the
+trend and provide the immediate direction
+the stock is headed in. Moving averages have
+a lot of applications in technical trading. The
+most common way traders have used them in
+the past is to buy a stock whenever a shorter
+term moving average (MA) crosses upward
+through a longer term moving average.
+Conversely, they would sell a stock
+whenever the shorter term MA crossed
+below the longer term MA.
+This application of moving averages is,
+however, usually not the best technique tofollow as it is a lagging method. What this
+means is that the signal to buy is often
+generated too late in the trend.
+Using candlestick signals with moving
+averages enhances the returns on
+investment many-fold. These moving
+averages provide support and resistance to a
+trending stock just like the trend-lines we
+drew in the previous section of this chapter.
+The most common moving averages are the
+simple MA and the exponential MA. For our
+discussion purposes, we will stick to the
+simple moving average (SMA). Readers
+should refer to other technical analysis books
+if they want further information on
+exponential MAs.The simple MA is defined as follows:
+Moving Average (N) = (A1+A2+A3+ . . . + AN) / N
+Where N = the period over which the average is
+calculated.
+A1 . . . An = closing prices over the last N days.
+This is a dynamic curve and is calculated
+every day after prices close. Most money
+managers in the world use 50 MA or 200
+MA. For trading purposes, having a 20- or a
+30-day MA is optimal. The key to using the
+correct moving average is to let the stock
+chart tell you. Pull up a chart and put various
+moving averages on it. This is very easy
+nowadays with online charting. All you have
+to do is select “Simple Moving Average”
+and type in different numbers like 20, 30, 50,etc. Once you have these lines on the
+candlestick chart, select the one from which
+the stock bounces off (reverses or supports)
+from the most. That is the moving average to
+use.
+Candlesticks are excellent for finding
+reversal situations. They tell you the
+internal dynamics of the market. However,
+they do not give you a target price. You can
+calculate the price targets using other tools
+of technical analysis. One way is to see
+where the dominant moving averages are.
+Stocks will usually tend to fluctuate around
+particular moving averages.
+As an example, Figure 10.8 shows you the
+chart of Grasim Industries.Figure 10.8: Grasim following its moving
+averages
+You can notice in the figure that in July 2006
+a Morning Star signal formed right on the 50-
+day simple moving average (SMA). From
+that point on, the stock price used the 20
+SMA as support till December, when itfinally broke down below both the 50 SMA
+and 20 SMA.
+The moving averages act like magnets for the
+price. The concept of moving averages is
+similar to the concept of trend lines which
+we discussed earlier. Moving averages are
+dynamic trend lines.
+Figure 10.9 shows a chart of Sujana Metal.Figure 10.9: Sujana Metal using the 50
+SMA as support
+Traders would have had a fun time trading
+this chart. The 50 day SMA is a powerful
+force for this stock. Notice the following
+signals:Point 1: Bullish Harami.
+Point 2: Doji with a gap up next day.
+Remember, this is a powerful signal.
+The Doji showed the indecision on
+the part of bulls and bears and the
+gap up the next day, showed the
+decision being made in favour of the
+bulls.
+Point 3: Morning Star signal.
+Point 4: Bullish Harami.
+In concluding this chapter, it would be
+appropriate to emphasize that a trader needs
+to have as much probability in his or her
+favour as possible. A combination of
+candlestick charts with technical analysis isan excellent system to achieve this.
+11
+Trading Setup
+Thus far we have learnt the major
+candlestick signals and how to use them with
+common western technical analysis. You
+have witnessed the high degree of accuracy
+of these signals in predicting reversals. The
+probability of the reversal is greatly
+enhanced when two or more signals confirm
+it. I have always put more weight on the
+Morning Star and Evening Star signals if the
+middle day is a one-day candlestick reversal
+signal, such as a Hammer or Hanging Man. If
+a bullish engulfing signal is forming at theexact support level from where the stock
+bounced up the previous time, it brings that
+much more credibility to the reversal.
+This knowledge should put you way ahead of
+your competitors. The next time when you
+see a stock fall 10 percent, you will not rush
+to buy it because it looks cheap. You have
+probably heard of the saying, “Don’t try to
+catch a falling knife”. That is very true. That
+stock which is down 10 percent can further
+go down another 20 percent. On the other
+hand, it could very well reverse and start a
+new leg up from here. You do not know
+which of the two might happen. All you
+know is the candle formation. Rely on the
+signals. Do you see a buy signal form? Are
+the stochastics in the right place? Is thereconfirmation buying? These are the points
+you will be looking at.
+As a candlestick trader, you are not
+looking to buy exact bottoms and selling at
+exact tops. You want the middle chunk of
+the trend.
+I have written this chapter with two
+objectives in mind.
+1. To show you the exit strategies when
+candlestick signals fail because, yes, they
+do sometimes fail!
+2. To share trading ideas which I have
+found useful over years of trading stocks
+and options.Getting Real — Candlesticks Fail,
+Too!
+I would have liked to tell you that
+candlestick signals are 100% effective, that
+they never fail, that they are the magic
+charms you have been waiting for.
+Unfortunately, I cannot!
+Candlestick signals are truly very effective.
+They have been tested for over four
+centuries. If they would not have worked,
+they wouldn’t have been around this long.
+They show reversal points with a high
+degree of probability. But the key word is
+probability. There are going to be times,
+albeit only a few, when you have the perfect
+signal, stochastics are in the perfect place,the signal is confirmed, you get in — and
+then the stock starts heading in the other
+direction. This is going to happen,
+guaranteed!
+Trading is like a business. There are times in
+a business where you face losses. That is
+perfectly normal and expected by all good
+businessmen.
+They know that in order to succeed, their
+gains must overcome their occasional losses.
+This is the exact philosophy a trader needs to
+have. Losses are inevitable in trading. You
+cannot control the market environment. The
+stock might be in an excellent buy scenario,
+but the market might be falling out of the bed.
+This will put pressure on the individualstock. It will negate the buy scenario with
+some dark candles. In such a case the market
+would have proved you wrong. As a trader,
+you have two choices at this point:
+1. Ride your ego. Ignore the fact that the
+market negated the buy signal. Assure
+yourself that you have more knowledge
+than the combined market and that the
+stock will go in your direction soon.
+Keep holding — and watch your losses
+mount.
+2. Acknowledge the fact that this trade has
+failed. Get out with a small loss and wait
+for the next buy signal.
+Most traders who choose the first optionequate the failed trade with a personal
+failure. They cannot accept the fact that even
+with all the technical analysis knowledge
+they possess, they still have a losing trade. If
+you have to succeed at trading, you will
+have to overcome this pitfall. It is by no
+means an easy one. But, nevertheless, you
+will have to do it. There is no way around it.
+All your candlestick and technical analysis
+knowledge will not make your portfolio
+grow if you cannot take a small loss.
+The old but wise adage “Cut your losses
+short and let your profits run” is the only way
+to be a successful trader. So now the
+question arises, “Where do you cut your
+losses?” 2% down, or 5%, or 10%? Some
+technical analysis books suggest 5%, otherssuggest 7%. These percentages do not mean
+much to a candlestick trader. The questions
+and answers that follow may look very
+basic. Yet, they contain the key to a trader’s
+dilemma of placing a stop loss.
+Question: Why is the candlestick trader long
+in the stock?
+Answer: Because of a candlestick buy signal
+formation.
+Question: Where would the candlestick
+trader place a stop loss?
+Answer: The point which shows that the
+candlestick buy signal is negated.
+Question: Why is the candlestick tradershort in the stock?
+Answer: Because of a candlestick sell signal
+formation.
+Question: Where would a candlestick trader
+place a stop loss?
+Answer: The point which shows that the
+candlestick sell signal is negated.
+As simple as that!
+Just as there is a reason for buying a stock,
+there should be reason for taking a loss. Let
+us analyze the stop loss scenario. As a
+candlestick trader, you have found a perfect
+buy signal in oversold conditions. You wait
+for the confirmation and then buy. In otherwords, the bears who were controlling the
+stock were overcome by the bulls, which is
+what formed the signal. The confirmation
+gave you the trigger and confidence that the
+bulls were still in it. After a couple of days,
+because of whatsoever reason, there is a
+dark candle which takes the stock price back
+to the buy point. What does that imply? It
+implies that the bulls have lost control to the
+bears. This is not what should have
+happened after a candlestick buy signal. The
+trend should have been reversed. However,
+the signals now are telling you that the bears
+have been able to drive the price back
+through the point where the bulls had
+assumed control previously. Why, then,
+would you want to be long in this “bear-
+controlled” stock? As you noticed from thisscenario, a stop loss is not a question of
+setting arbitrary percentages. It is analyzing
+each situation independently to find the
+point where the bulls or bears cede control
+to the other.
+We will look at some of the common
+candlestick signals and how to set stop
+losses if these signals fail.Hammer
+As shown in Figure 11.1, the bottom of the
+Hammer is a good support point. The bulls
+had shown their dominance at that point,
+bringing the prices all the way up. It is quite
+logical to assume that if the price drops
+below the low of the Hammer, the signal is
+negated.
+Figure 11.1: Stop out level for a Hammer
+signalInverted Hammer
+The bottom of the body of the Inverted
+Hammer (Figure 11.2) is considered a strong
+support area.
+Figure 11.2: Stop out level for an Inverted
+Hammer signal
+If the price declines below this point, it
+shows that the bulls were not able to hold thesupport. Getting out of the trade is then the
+prudent thing to do.Bullish Engulfing Signal
+As Figure 11.3 shows, the bottom of the
+bullish candle is logically analyzed to be a
+strong support.
+Figure 11.3: Stop out level for a Bullish
+Engulfing signal
+That is the price at which the bulls started
+taking control from the bears. After the signal
+is confirmed, prices should not get backthrough this point.Piercing Signal
+Where did the bulls take control from the
+bears in the Piercing signal in Figure 11.4?
+Figure 11.4: Stop out level for a Piercing
+signal
+The bottom of the bullish candle! It then
+makes logical sense to put your stop loss just
+below (typically 0.1% below) this price
+point. The piercing signal is considerednegated if prices come back down through
+this point.Bullish Harami
+In the case of a Bullish Harami, the logical
+point to set the stop loss is just below the
+bottom of the bullish candle as shown in
+Figure 11.5. The bulls had assumed control
+at that point and should not be letting the
+price slip below that.
+Figure 11.5: Stop out level for a Bullish
+Harami signalMorning Star Signal
+Figure 11.6 shows a Morning Star stop loss
+scenario.
+Figure 11.6: Stop out level for a Morning
+Star signal
+As long as the price does not trade below the
+low of the signal formation, the bulls are still
+in control. The Morning Star signal is very
+powerful and rarely will one fail. But atrader should be aware of the stop loss
+setting just in case it were to happen.Hanging Man Signal
+As shown in Figure 11.7, the top of the
+Hanging Man signal is considered resistance.
+This is because the bears had seized control
+from the bulls at that price. If the bulls can
+take the price above the body of the Hanging
+Man, the signal is considered failed.
+Figure 11.7: Stop out level for a Hanging
+Man signalShooting Star Signal
+Figure 11.8 shows the stop loss setting for a
+Shooting Star.
+Figure 11.8: Stop out level for a Shooting
+Star signal
+If you go short on a confirmed Shooting Star
+signal, get out immediately if the bulls
+manage to trade the stock above the high
+point. That piercing of the high point showsstrength on the part of bulls, something you
+as a short seller don’t want to see!Bearish Engulfing Signal
+The bulls would be considered in charge of
+the stock again, if they can manage to close
+prices above the body of the dark candle as
+shown in Figure 11.9. As a short seller, you
+do not want to be in this trade anymore.
+Figure 11.9: Stop out level for a Bearish
+Engulfing signalDark Cloud Cover
+It is recommended to set your stop loss just
+above the open of the dark candle of the
+Dark Cloud Cover in Figure 11.10. That is
+the point where the bears seized control from
+the bulls previously. Prices trading above
+this point will negate this signal.
+Figure 11.10: Stop out level for a DarkCloud signalBearish Harami Signal
+As shown in Figure 11.11, the open of the
+dark candle is resistance. It is recommended
+to place a stop just above this level. The
+bulls are assumed to be still in control if
+prices trade above this point.
+Figure 11.11: Stop out level for a Bearish
+Harami signalEvening Star Signal
+Figure 11.12 shows an Evening Star signal
+stop loss scenario. The high of the Evening
+Star is a logical resistance point. Placing a
+stop loss just above this point would allow
+the candlestick trader to get out with only a
+small loss.
+Figure 11.12: Stop out level for an
+Evening Star signal
+The key point is to analyze what price actionis shown by the signals once you have
+entered the market. The price action should
+follow your expected path. This analysis
+should be done daily for all the positions
+held in the account. It should not take too
+much time to do this analysis once your eyes
+are trained and the signals are properly
+understood. That is the reason I have
+emphasized the importance of understanding
+the psychology behind the candlestick
+signals.
+Figure 11.13 shows the chart of Jaiprakash
+Associates.Figure 11.13: Failed Bullish Harami
+You can notice in this chart that the first
+Bullish Harami would have given the trader
+a small loss. The trader should have got out
+as soon as the bears drove the prices below
+the open of the white Harami candle. A
+couple of days later, the trader should havegot back in on another Bullish Harami signal.
+This trade would have made a very good
+profit. You have to cut your losses short and
+let your profits run!
+Some of you might be thinking — Why did I
+need the stop loss? Even if I would have
+held on after the failure of the first Bullish
+Harami, I would have not had much loss. The
+stock eventually rebounded.
+Yes, you are correct that the stock
+rebounded. But would you have known that
+when the stock came down through the open
+of the Harami? How would you have known
+the extent of the downward slide from that
+point on? In reality, there is no way to know
+that. Hindsight is always 20 / 20. Then whyrisk your money. Take the small loss and find
+another high probability signal. If you like
+this stock, then keep monitoring it. You have
+already witnessed one buy signal. The
+stochastics are oversold. Just wait for
+another buy signal. You would have been
+handsomely rewarded in this case if you
+would have entered on the second buy signal.
+Figure 11.14 shows the chart of Grasim
+Industries Ltd.Figure 11.14: Failed Bullish Harami in
+Grasim
+If a candlestick trader had bought this stock
+on 27 February 2007, right after the Bullish
+Harami in oversold condition, s/he would
+have been following the rules. The
+probabilities indicated that the Harami might
+have stopped the selling and the gap up nextday might have indicated some bullish
+sentiment. However, the trader should have
+sold out as soon as the stock breached and
+closed lower than the open of the Harami
+day. The probabilities were no longer in his
+or her favour. The stock can go down 10
+more points from here, or 50 more points.
+Always trade with the probabilities!
+Figure 11.15 shows the chart of Syndicate
+Bank.Figure 11.15: Trading the candle signals in
+Syndicate Bank
+At the beginning of July 2006, we notice a
+bullish Harami Doji being formed. The next
+day there is confirmation buying (Point 1).
+The candlestick trader would get in at this
+point. There were two more conditionswhich made this a good buy point:
+1. Stochastics were in an oversold
+condition; and
+2. The bullish Harami Doji formed near the
+same level where the stock found support
+in mid-June 2006.
+As you can see from the chart, things did not
+go as anticipated. The candlestick trader
+should have sold out his position as soon as
+it closed below the bottom of the Harami
+(Point 2). Getting in the stock again after the
+Bullish Engulfing signal (Point 3), would
+have yielded a very profitable subsequent
+trade.
+Figure 11.16 shows the chart of L&T Ltd.Figure 11.16: Resistance becomes support
+in L&T
+The Bearish Engulfing signal at the beginning
+of November (Point 1) was an excellent
+point to short sell the stock. The stochastics
+were in over bought conditions and thesignal confirmed a previous resistance point
+from mid-September. Let us analyze what
+happened from then on:
+A Morning Star signal stopped the
+downtrend. The trader would still be
+okay at this point.
+We then witnessed a Doji, then a
+Spinning Top, another Doji and another
+Spinning Top. All these indecisive days
+occurred at the same resistance level.
+Then a Shooting Star was formed. At this
+point the candlestick trader should be
+comfortable that the bears are not giving
+up on the stock. Though the bears are not
+too forceful in driving the prices lower,
+they are still the dominant party.The trader would then have witnessed
+the big dark candle confirming the
+Shooting Star. Everything is still
+implying that the supply exceeds the
+demand at around the ` 1,360 price range.
+Then we see a Bullish Harami occur. No
+reason to panic yet. The trader is still in
+the trade.
+The next day prices gap up over the
+resistance area indicating a change in
+investor sentiment. This is not what the
+stock should have been doing if the bears
+were still in control. It’s time, therefore,
+for the trader to get out. The market has
+handed over control to the bulls.
+Figure 11.17 shows the chart of HindustanPetroleum Ltd.
+Figure 11.17: Failed trade in Hindustan
+Petroleum
+You will notice that a bullish Harami formed
+at the beginning of December 2006.
+Stochastics were in oversold conditions. The
+next day provided confirmation buying for
+the candlestick trader to get in. What shouldbe expected after that? Continued buying!
+However the trade fizzled out and the trader
+should have been stopped out as shown in
+the chart.
+I would like to ask you to look at the chart in
+Figure 11.17 again in a different perspective.
+Should you have even made this trade?
+Analyze the chart thoroughly. I have defined
+the “buy point” and the “stop out point”
+earlier. What is the target point in this case?
+Where do you expect the stock to reach?
+Hint: Use concepts from the previous
+chapter.
+Figure 11.18 is the same as Figure 11.17, but
+with the target point.Figure 11.18: Re-visiting the previous
+trade with technical analysis
+The target point in this case is the extension
+of the old support line. Notice the Head and
+Shoulders formation beginning in October
+and lasting till the end of November. The
+market broke the neck-line and then tried torally back above it, but failed.
+So the candlestick trader, upon seeing the
+buy scenario, should have waited to get into
+the market until the new resistance was
+successfully breached to the upside.
+Otherwise the reward-risk ratio (described
+in the next section of this chapter) did not
+warrant the trade.
+Also notice the stock failing to breach the
+resistance in January 2007.
+As emphasized in the previous chapter, the
+concepts that “old resistance becomes new
+support once breached” and “old support
+becomes new resistance once breached” are
+a very powerful tool in the trader’s arsenal.Hopefully, by now you have gained some
+confidence in the stop loss procedures using
+candlestick signals. Remember that the
+signals convey all the information you need
+to take a logical decision.Trading Tips from a Candlestick
+Trader’s Perspective
+This section will detail some of the nuances
+that will help you improve your trading one
+notch further. These are not hard and fast
+rules, but a collection of my trading
+guidelines. Some have been learnt from
+observation and others of a trade from actual
+trading experience.Always Work Out the Risk-Reward
+Ratio
+If you have read any trading book, you know
+of the three basic price points you need to be
+aware of even before placing the trade:
+The entry point — this is the point to
+buy after a confirmed candlestick signal.
+The stop loss point — this is the point to
+exit the trade if the stock is not
+performing as expected.
+The target point — this is the point
+where you expect the stock to reach if the
+trade is successful, usually a previous
+high or perceived resistance level.These points help you define the “reward to
+risk ratio” as follows:
+The higher the reward-risk ratio, the more
+compelling is the trade. Traders normally
+like to have at least a reward-risk ratio of 2,
+or higher. Personally, I like to see 3 or
+higher. You will have to decide what ratio
+you are comfortable with.
+Just because you notice an excellent
+candlestick buy signal does not mean you
+have to enter the trade. Always calculate the
+reward-risk ratio. If you could lose ` 10 for a
+possible gain of ` 15, the trade is not worthit, no matter how good the candlestick signal.Don’t Turn a Trade into an
+Investment
+This is the most common mistake committed
+by traders. They see a good buy situation
+setting up. They notice the stochastics are
+oversold and can sense panic selling in the
+market. Then the buy signal is formed. They
+know their entry point, their target point and
+also their stop loss point. They enter the
+market feeling confident that the trend has
+reversed. The stock moves up as expected.
+The traders are happy. Everything is good
+and rosy. Soon, however, the stock starts
+dropping. The bears start taking control of
+the stock and push it down past through the
+stop loss point. The trader hesitates at thiscritical juncture. Something inside his mind
+knows, now is the time to sell and accept the
+loss. But, then, hope crawls in. Hope, that
+ultimate trickster! The trader convinces
+himself that the stock will rebound anytime
+now. He promises to himself to get out as
+soon as the stock comes to break even. Alas,
+the market is unforgiving to such “weak
+hearted” traders. By the end of the day, the
+stock is down considerably. This leads to the
+biggest mistake of all. Now the trader
+convinces himself that the company whose
+stock he just bought is fundamentally very
+sound. The prospects for the company are
+great. He will keep holding and buying more,
+so he can average out the price.
+The problem with this scenario is multifold:The trader has no inkling how far down
+the stock is going to go. So his portfolio
+is not under his control anymore.
+His money is now tied into an
+“investment” which is losing its value.
+He is losing other valuable opportunities
+by not having that money at his disposal,
+and, most importantly,
+He is mentally shaken and his confidence
+rattled by watching his portfolio go
+down.
+Do not turn your losing trades into a long
+term investment. Get out if the candlestick
+signals fail and wait for another buy
+opportunity.Avoid Trading Low Volume Stocks
+Candlestick signals indicate the sum total of
+all the investment knowledge of the traders
+in that particular stock. The larger the
+number of traders participating in the stock,
+the better is the signal. High volume stocks
+are better to trade using candlesticks than
+very low volume stocks. Figure 11.19 shows
+a chart of ACE India Ltd.Figure 11.19: Avoid these kind of low
+volume stocks
+This is not a good chart to trade from. As a
+candlestick trader, you want the chart to be
+clean. Look at previous reversal points on
+the chart. Usually, if a chart has given good
+signals in the past, it will give good signalsin the future. If you find a chart which is
+difficult to analyze, skip it. There are plenty
+of other charts to play with. Always get all
+the variables in your favour before you step
+into a trade.Avoid Taking a Position before
+Earnings Reports
+As a candlestick trader, you are relying on
+the signals on the chart. This is, by
+definition, technical trading. You do not want
+to engage yourself in fundamental decision
+making processes. When fundamental news
+hits the wires, technicals will take a
+backseat. Earnings declarations are one of
+the fundamental news a trader needs to stay
+away from. It is highly recommended to not
+have a position in a company which is about
+to declare its earnings. It is just not worth it.
+You can employ various hedging positions,
+but that is beyond the scope of this book. If
+you are in a stock whose earnings arescheduled to be released after the bell, exit
+the position during the day. This does not
+mean that you should not trade during
+earnings season every quarter. Just make sure
+you exit the position before earnings are
+released. There are many other opportunities
+in the market to trade from. As a candlestick
+trader, you can watch what candle formations
+occur after the earnings news is released and
+then take a decision to go long or short.
+Similar fundamental news, such as a drug
+approval decision, a huge contract decision,
+takeover speculation, etc., should be treated
+the same way. Always keep in mind that you
+are a trader, not a gambler. Any trading
+situation in which a news outcome can
+completely disrupt your rationale for
+entering a position should be avoided. Icannot emphasize this enough.Don’t be Trigger-Shy
+Many traders experience hesitation in
+entering the market at the right time even
+after an excellent signal appears. This
+happens primarily because of a lack of
+confidence in one’s trading skills. Such
+traders come up with different excuses as to
+why they should not trade “this time”.
+How many of the following excuses have you
+given yourself?
+The signal is good but somebody in the
+online chat group said not to buy this
+stock.
+Let me paper trade just this one moretime. I will buy from the next time
+onwards.
+Analysts on TV and newspapers are
+saying the market will go down now. So I
+will pass this good buy signal.
+Even though I can see a sell signal,
+everyone else is buying. The signal might
+be wrong. Let me pass this trade.
+I am not wearing my favourite coloured
+shirt, my hair is not combed, my makeup
+today is not good, and so on.
+You get the point!
+As a candlestick trader, you have centuries
+of testing backing you up. You understand the
+psychology behind the formations. You arenow able to see the market from the greed
+and fear perspective. You have confidence
+that the signals represent high probability
+reversal situations. You are also aware that
+should the signal go sour, you have decided
+the precise point to get out with a small loss.
+Trade confidently. You have to start.
+Otherwise, you cannot win.Don’t Target Buying Exact Tops and
+Selling Exact Bottoms
+As a candlestick trader, you should not be
+concerned with buying at the exact bottom or
+selling at the exact top. That is a very
+difficult task compared to taking the chunk of
+the trend in between the top and the bottom.
+Some traders see a good bullish engulfing
+signal, prepare to buy on confirmation, but
+never do. They lament about not getting in at
+the bottom of the long engulfing candle. They
+do not look at the trend reversal and the fact
+that the stock can now give them a good up
+trend.
+As a candlestick trader, you will only buy onconfirmation of the signal. You will only sell
+or short on confirmation of a sell signal.
+Nothing else matters.Overbought and Oversold Conditions
+are Secondary to Candlestick Signals
+We have used stochastics throughout the
+book to indicate overbought and oversold
+conditions. These are to be used only as
+indicators. The over-riding factor in any
+buying or selling decision should be the
+candlestick signal.
+If you bought a stock on a buy signal when
+stochastics were in oversold conditions, then
+you will sell only when you analyze that the
+bears have taken control. Just because the
+stock has become overbought should not in
+itself mean anything to you. A stock, or any
+market for that matter, can stay overboughtfor weeks or even months. Similarly, a stock
+or a market can stay oversold for a long time.
+This happens when the stock or market is in
+a trend. The trend channel, as described in
+the previous chapter, becomes the support
+and resistance for the stock. If the stock is in
+an up trend, it might not get to oversold
+conditions till the time it moves from the
+upper trend line to the lower trend line.
+Now, in such trending stocks you need to
+decide if you want to get out on a sell signal
+at the top of the trend and buy again when it
+gets to the bottom, or just keep holding the
+stock until it breaks the up-trending channel.
+This is a personal matter of choice.The Trend is Your Friend
+“The trend is your friend” is another adage in
+the stock trading world, which every trader
+should make use of in his trading. What this
+implies in simple terms is that a trader
+should trade only in the direction of the
+trend:
+If a stock is trending up, then only buy on
+candlestick buy signals and sell out on
+sell signals. Do not short sell on a sell
+signal.
+If a stock is trending down, then short
+sell on a candlestick sell signal and buy
+back on a buy signal. But do not buy
+long.Imagine the market to be like a flowing river.
+If the river is flowing upstream, then why
+would you want to swim downstream,
+against the current? Use the strength of the
+current to your advantage. Swim upstream.
+So, too, with the markets. In an up trending
+stock, always buy on a candlestick buy
+signal. You can sell out when a sell signal
+appears to protect your profits. But shorting
+the stock is not advisable because the weight
+of the market is against you. When the stock
+breaks the up trend line, a new dynamic is
+generated. Use the candlestick signals to
+short the stock at the right time.Targets are Only Targets
+When you decide to enter a trade, you have a
+certain target in mind that you analyze the
+stock should be able to reach. You will take
+your profits at that point if the signals tell
+you to. This target point could be either:
+A previous major high or low;
+A major trend line;
+A Fibonacci re-tracement level; or
+A major moving average.
+That is all very good. You have taken all the
+steps a trader needs to take before entering a
+trade. However, you must realize that themarket does not care who is trading it, what
+price level you entered at, or what price
+level is your target. That is all in your head.
+Those are parameters you have decided for
+your trade. It can very well happen that after
+you buy a stock, it goes up, but forms a
+candlestick sell signal before reaching your
+target. Please take profits. The markets are
+sending you a signal. Ignore it at your own
+risk. Targets are just that, targets. Nothing
+more! The signal is the over-riding factor.
+If you see the stock climb back up after you
+sold on a sell signal, do not fret about it. You
+made a good trade and, more importantly,
+you abided by your rules. This will ensure
+your long term success.Don’t Become a Victim of Analysis
+Paralysis
+There are over a hundred technical
+indicators which traders can use to help them
+decipher which way a stock is heading.
+Online charting has helped revolutionize
+technical trading. Traders can now program
+their own indicators and back-test them on
+different stocks. That shows them how
+accurate the indicators have performed in the
+past. They can then tweak the parameters
+which define the indicators and try to make
+them as accurate as possible. Technical
+traders take great pride in doing these
+exercises. However, many a time traders
+face the “analysis paralysis” phenomenon.They have too many indicators and
+oscillators on the chart. This crowds the
+price action of the signal leading to
+indecision. Your goal as a trader is to
+identify the best possible support and
+resistance levels for the stock and act
+accordingly. If you have five different
+moving averages, Fibonacci re-tracement
+levels, support-resistance lines, along with
+stochastics, MACD, RSI, volume, on balance
+volume and a few other oscillators set up on
+the chart, it is going to get very confusing.
+The trader will never enter a trade if there
+are too many price points which could act as
+resistance or support, whichever the case
+may be. Let the chart be clear. Pick your
+favourite oscillator, a couple of moving
+averages and your trend lines.You should also be aware that different
+oscillators will show oversold and
+overbought conditions at different times. One
+oscillator might suggest that the stock is still
+heading down while another might suggest it
+has bottomed. This again will lead to
+indecision on the part of traders as they will
+not be confident about the direction of the
+trade. So, keep the charts simple.Money Management
+Diversification is an important tool for
+traders as well as investors. If you have ` 10
+lakh in your portfolio, please do not use the
+entire amount to invest or trade shares of just
+one company. That would be suicidal. A lot
+of traders and investors have been burnt
+because of lack of diversification. Any
+position you buy should not be such that it
+dramatically affects your portfolio upon
+getting a drastic hit though the position
+should be large enough to make you pay
+attention to it.
+The following is an example of how I would
+build a portfolio with ` 10 lakh of capital.
+Let me emphasize — this is just an example.You will have to decide what suits you and
+your trading style.
+I would divide the capital into 10 parts,
+giving me ` 1 lakh each for ten trades. I
+would then find 10 stocks with candlestick
+buy or sell signals and enter into 10 different
+trades.
+If the share price of a company is ` 50, I
+would buy 2,000 shares. If the share price is
+` 500, I would only buy 200. This is to make
+sure I only use ` 1 lakh for each trade.
+This keeps emotional buying out of a trade.
+Sometimes traders see an excellent buy
+signal in perfect conditions. They are sure
+beyond any doubt that this will be a winningtrade. So they buy more shares for this
+position. Unfortunately, if the trade goes the
+other way, they will be sitting on a much
+higher loss than should have been the case.
+Remember, you are always dealing with
+probabilities! Think of every trade as having
+the same probability of success. Do not
+favour one trade over the other.
+12
+Candlesticks for Longer Term
+TradingTrading for the “Not-So-Active”
+Trader
+Candlesticks work very well for investing
+purposes, too. There are people who do not
+like getting in and out of stocks very often.
+They want to participate in wealth building
+through financial instruments on a long term
+basis. Historically, markets have a tendency
+to drift higher. Most companies, after all, list
+themselves on the stock exchange to
+increase, and not diminish, their shareholder
+value.
+These investors are willing to ride out the
+ups and downs of the market in anticipation
+of long term gains. It might work or it might
+not. In the world today where technology ischanging by the minute, there is no guarantee
+that a leading company today will be in
+existence even one year from now. To make
+sure that as an investor you are not investing
+in companies that will eventually wipe out
+your portfolio, you need to monitor the
+companies. Maybe not every day as a trader
+would, but at least once a week. When a
+company has something negative which
+would affect it in a fundamental way, guess
+where you will notice it? On the charts! In
+cases where a deterioration of company
+fundamentals is happening, most individual
+investors will not have a clue until the share
+prices tank. But the candlestick charts will
+show the investor what the company
+management is unwilling to.Work with Weekly Charts
+As an investor, you will look at the charts
+displayed on weekly time frame. Most
+charting services will allow you to display a
+chart in a daily, weekly or monthly time
+frame. You may have noticed that most of this
+book uses daily charts. However, candlestick
+signals work just the same way on a weekly
+chart or on a monthly chart. Nothing changes.
+The signal formations and the psychology
+behind them are exactly the same. For a
+weekly chart, the candle opens at the start of
+the trading week and closes at the end of the
+trading week. For a monthly candlestick
+chart, the candle opens at the start of the
+month and closes at the end of the month. For
+a weekly chart, the high and the low of thecandle are the highest price the stock reached
+in that week and the lowest price the stock
+reached in that week, respectively. For the
+monthly chart, the high and low are the
+highest price the stock reached in the month
+and the lowest price the stock reached in the
+month, respectively.
+In general, if you are using weekly charts,
+you would expect to be in the market for
+weeks, or maybe even months, at a time.
+Your gains will be much higher than if you
+were trading the daily charts. On the flip
+side, if a signal faults out, you will not know
+of it until the end of the week when the
+candle closes. That would translate into a
+higher loss. But remember, again, the
+probabilities are on your side when you buyand sell on a candlestick signal.
+Figure 12.1 shows the weekly chart of Bank
+of India.
+Figure 12.1: Morning Star in Bank of India
+with stochastics oversoldAfter weeks of selling and domination by the
+bears, the stock formed a Morning Star
+reversal signal. Also notice that the
+stochastics were in oversold conditions. The
+perfect time to buy would have been in the
+week after the week of the Morning Star
+signal.
+As I mentioned before, none of the procedure
+for buying or selling changes when using
+weekly charts. The only change is the time
+frame of trading. The trader or investor using
+this chart would have stayed in the position
+for at least 2 months before exiting.
+Figure 12.2 shows the weekly chart of
+Syndicate Bank.Figure 12.2: Evening Star signal starts the
+downtrend in Syndicate Bank
+In the early part of May 2006, you will
+notice an Evening Star formation. Long term
+traders could have put on short positions as
+soon as the signal got confirmed. The
+downtrend was stopped by a Doji-typeweek, followed by a Bullish Engulfing
+signal.
+Figure 12.3 shows the Nifty index plotted
+with a weekly time frame.
+Figure 12.3: Trading candle signals on the
+Nifty weekly chartThis chart is proof that candlesticks work
+very well for indexes on a weekly time
+frame, just like they do on daily time frames.
+Notice the following points about the chart:
+Point 1: An Evening Star signal stopped
+Nifty’s advance at the beginning of
+October 2005.
+Pont 2: A bullish Harami signal ended the
+short downtrend in November 2005.
+Point 3: The Nifty had a very good run till
+May 2006, where an ugly Evening
+Star formation broke its trend.
+Point 4: This particular downtrend was
+broken in June 2006 by a Morning
+Star signal.Point 5: In February 2007 you can witness a
+Doji type week, followed by a
+Hanging Man signal.
+Figure 12.4 shows the weekly chart of
+Jaiprakash Associates. Notice the strong up
+trend till ` 500 was broken with the
+formation of a Bearish Harami. The chart
+also points out a Bearish Engulfing signal
+prior to where the up trend reversed. At this
+point, and ask yourself, if one should have
+shorted the stock? Looking at the chart it is
+obvious that you should not have. What is the
+significant difference between the Bearish
+Harami and the Bearish Engulfing on this
+chart? Confirmation of the candlestick
+signal!Figure 12.4: Bearish Engulfing signal
+topples Jaiprakash Associates
+It is very important for any candlestick signal
+to be confirmed before initiating a position.
+Notice that the Bearish Engulfing signal was
+negated with a Bullish Harami formation.
+The Bearish Harami formation was
+confirmed with another bearish candle and
+lower close. This would be the place to goshort anticipating a down move.
+Observe the weekly chart of GMR
+Infrastructure in Figure 12.5.
+Figure 12.5: Trading with candles signals
+in the weekly chart of GMR Infrastructure
+After a few Spinning Tops and small body
+candles throughout March 2007, the stock
+formed a Hammer signal. This was
+confirmed in the next couple of weeksindicating the possible start of an up trend.
+This rally ended with a Shooting Star
+formation, confirmed by a bearish candle in
+the following week. Could this possible
+pullback have been anticipated? Maybe.
+Where do most investors buy? Near the top!
+Notice the candles getting larger as the rally
+gained steam and the stock more than tripled.
+This is where the common man decides to
+jump in so as not to miss the boat. A very
+good sign that the stock is about to reverse.
+One more point to emphasize is that technical
+analysis can be applied to weekly charts, just
+as it would to daily charts. Support /
+resistance lines, trend channels, technical
+patterns are formed by repetitive andunchanging human behaviour. Fear is fear
+whether on a daily chart. a weekly chart or
+even on a 15 minute chart. There is nothing
+magical about it. We are prone to act the
+same way, no matter what our trading time
+horizon is.
+Figure 12.6 shows Infosys Technologies
+breaking out of a long downtrend on a
+weekly chart. Here are some key points to
+observe:
+Point 1: An Evening Star formation starts the
+downtrend.Figure 12.6: Using support / resistance on
+weekly charts
+Point 2: A Bullish Harami confirmed the day
+after. Would one buy at this point
+given the downtrend line resistance
+just overhead? That would not be a
+good idea.
+Point 3: A Hammer formation confirmed the
+day after. Apply the same logic asPoint 2.
+Point 4: A Morning Star signal. There is a
+difference this time around. The
+investor sentiment has changed to a
+point where the stock breaks the
+downtrend resistance with a strong
+bullish confirmation. A good place to
+get in for a trade!
+Point 5: An Evening Star signal confirmed
+one should get out of the trade.
+Point 6: This emphasizes that old resistance
+once broken acts as support. A
+Morning Star signal at this point
+should prompt profit taking on the
+short side.Finally, let’s look at a weekly chart of MTNL
+in Figure 12.7.
+Figure 12.7: Candlestick signals on
+MTNL’s weekly chart
+The stock had been in an up trend from the
+end of July till the start of January. A few
+points to notice about the Bearish Haramithat formed at this point:
+1. The Harami was confirmed with a
+bearish candle the following week;
+2. The close of this confirming candle was
+below the up trend support line; and
+3. The volume surged near the peak
+indicating last gasp buying from the
+bulls. This is a very good indication that
+the trend is about to be reversed. It is a
+simple point, no more buyers means
+lower prices.
+For a trader who went short on a break of the
+up trend support line, a good place to exit the
+position would have been after a string of
+Doji were confirmed with a bullish candle inMarch.
+As you can see, the candlestick signals work
+the same in all time frames. For those
+investors who are seeking to ride the bigger
+trends and who do not have the time or
+passion to monitor the markets often, using
+weekly charts with candlestick signals
+would be an ideal scenario. However,
+remember that you still need to monitor the
+markets once in a week. Spending this time
+now monitoring your investments will
+generate huge rewards later in life.
+13
+Conclusion
+I have made a sincere effort to write a no-
+nonsense book about trading using Japanese
+candlestick signals. I wanted to include a lot
+of history regarding the signals, but decided
+otherwise. The history and the Japanese
+nomenclature have no bearing on one’s
+trading. The key is to understand the major
+signals and use them effectively.
+I would like to urge readers to re-read the
+book until their eyes get visually trained to
+recognize the various signal formations. Thisis because the signal recognition process
+should be instantaneous. A minute or two can
+then be spent analyzing the support-
+resistance levels and stop loss levels. Soon
+this entire process of finding potential
+profitable trades will be second nature to
+you. You will instantly know which charts
+look “tradable”. Instead of trying to find
+trades in all the charts, your experienced
+eyes will visually select the most profitable
+opportunities.
+As mentioned before, it takes practice,
+patience and dedication to become a
+successful investor and trader. One of my
+early mentors in candlestick trading had a
+very good idea about practice trades. He
+used to put on his usual 5 to 10 trades at atime. But, along with that, he also used to
+paper trade another 5 to 10 trades. This is an
+excellent way to test one’s knowledge and
+get to know the market at the same time. If
+you involve yourself only in paper trading,
+you will be leaving out the key point — your
+emotional interaction with the market!
+Start your journey with a small, but real
+position in the market. Then, as the profits
+grow, so can your trade size.
+Do not fall prey to those who say you cannot
+time the market. With the right knowledge
+and practical money management techniques,
+you can reap huge rewards from any
+investment instrument. Also remember that
+you are not limited to trading only shares anymore. You can use candlestick signals for
+trading currencies and commodities as well.
+It is up to you to find your niche in the
+market. Not all traders like to trade
+everything. Some specialize in shares, some
+in commodities and some in currencies. You
+now have a powerful tool to use in
+whichever market you find comfortable.
+From now on, the market will look less
+chaotic to you. Though you cannot control the
+ups and the downs of the market, you will be
+able to take advantage of the swings. I would
+highly recommend the readers to get
+proficient in playing both sides (long and
+short) of the markets. Many traders develop
+a liking to trading to only the upside. Some
+are under the wrong impression that shortingstocks is dangerous. With proper stop loss
+procedures, the risk in going short is the
+same as in going long. Traders who trade
+only side miss out when the markets are
+correcting, which inevitably happens. There
+is no difference as far as candlestick trading
+is concerned. This book has thoroughly
+discussed the candlestick sell signals and the
+readers should take advantage of them. Once
+you get fluent playing both sides, there will
+never be a dull moment in the market for you.
+It is a big world out there with billions of
+rupees trading hands every day. It is my
+innermost belief that this book can help you
+put some of that abundance in your pocket!
+Happy wealth building!Appendix: Important Candle
+Signals - A Ready Reckoner
+HammerThe lower
+shadow
+must be at
+least twice
+the size of
+the body
+length.
+There
+should be
+no upper
+shadow or
+a very
+small
+upper
+shadow.
+The colour
+of the
+body does
+not matter,
+but a white
+body
+would be
+more
+positive
+than a
+black
+body.Inverted
+HammerThe upper
+shadow
+must be at
+least twice
+the size of
+the body
+length.
+There
+should be
+no lower
+shadow or
+a very
+small
+lower
+shadow.
+The colour
+of the
+body does
+not matter,
+but a white
+body
+would be
+more
+positive
+than a
+black
+body.
+Bullish
+EngulfingThe
+second
+day of the
+signal
+should be
+a white
+candle
+opening
+below the
+Close of
+the
+previous
+day and
+closing
+above the
+Open of
+the
+previous
+day’s
+black
+candle.
+Piercing
+SignalThe
+second
+day of the
+signalshould be
+a white
+candle
+opening
+below the
+trading
+range of
+the
+previous
+day and
+closing at
+least half
+way into
+the body
+of the
+previous
+day’s dark
+candle.
+Bullish
+HaramiThe
+second
+day of the
+signal
+should be
+white and
+the body
+should be
+completely
+engulfed
+by the
+previous
+day’s
+black
+candle
+body.
+MorningThe firstStar day of the
+signal
+must be a
+long dark
+body. The
+second
+day must
+be a day of
+indecision.
+The third
+day should
+be a long
+white
+candle
+reaching at
+least
+halfway
+into the
+body of
+the first
+day’s dark
+candle.
+Bullish
+KickerThe first
+day of the
+signal
+must be a
+long black
+body. The
+second
+day must
+be a long
+white
+candle
+opening
+above the
+open of the
+previous
+day. An
+ideal
+Bullish
+Kicker
+will have
+a GAP
+between
+the two
+candles.
+© Profitable Candlestick Charting, LLCImportant Candle Signals - A
+Ready Reckoner
+Hanging
+ManThe lower
+shadow
+must be at
+least twice
+the size of
+the body
+length.
+There
+should be
+no upper
+shadow or
+a very
+small
+upper
+shadow.
+The colour
+of the
+body does
+not matter,
+but a dark
+body
+would be
+more
+positive
+than a
+white
+body.
+Shooting
+StarThe upper
+shadow
+must be at
+least twice
+the size of
+the body
+length.
+There
+should be
+no lower
+shadow or
+a very
+small
+lower
+shadow.
+The colour
+of the
+body does
+not matter,
+but a dark
+body
+would be
+morepositive
+than a
+white
+body.
+Bearish
+EngulfingThe
+second
+day of the
+signal
+should be
+a black
+candle
+opening
+above the
+Close of
+the
+previous
+day and
+closing
+below the
+Open of
+the
+previous
+day’s
+white
+candle.
+Dark
+cloud
+CoverThe
+second
+day of the
+signal
+should be
+a dark
+candle
+opening
+above the
+trading
+range of
+the
+previous
+day and
+closing at
+least half
+way into
+the body
+of the
+previous
+day’s
+white
+candle.
+Bearish
+HaramiThe
+second
+day of thesignal
+should be
+black and
+the body
+should be
+completely
+engulfed
+by the
+previous
+day’s
+white
+candle
+body.
+EveningThe firstStar day of the
+signal
+must be a
+long white
+body. The
+second
+day must
+be a day of
+indecision.
+The third
+day should
+be a long
+dark
+candle
+reaching
+down at
+least
+halfway
+into the
+body of
+the first
+day’s
+white
+candle.
+Bearish
+KickerThe first
+day of the
+signal
+must be a
+long white
+body. The
+second
+day must
+be a long
+dark
+candle
+opening
+below the
+open of the
+previous
+day. An
+ideal
+Bearish
+Kicker
+will have
+a GAP
+between
+the two
+candles.
+© Profitable Candlestick Charting, LLC
